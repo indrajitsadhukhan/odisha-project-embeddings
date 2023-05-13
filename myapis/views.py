@@ -52,9 +52,9 @@ Functions
 
 df = pd.DataFrame()
 # Use Azure OpenAI
-openai.api_key="a8fe99cb6b354a06913f189536cdf8fc"
+openai.api_key=""
 openai.api_type='azure'
-openai.api_base="https://azure-test12.openai.azure.com/"
+openai.api_base=""
 api_version_gpt35 = "2023-03-15-preview"
 openai.api_version=api_version_gpt35
 
