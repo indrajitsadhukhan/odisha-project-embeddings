@@ -54,7 +54,7 @@ df = pd.DataFrame()
 language="bengali"
 
 # Use Azure OpenAI
-openai.api_key=""
+openai.api_key="ee0aad3b4f7042e88a5252d5c1697fa9"
 openai.api_type='azure'
 openai.api_base="https://azure-test12.openai.azure.com/"
 api_version_gpt35 = "2023-03-15-preview"
