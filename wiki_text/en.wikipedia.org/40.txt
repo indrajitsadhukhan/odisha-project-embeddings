@@ -1,0 +1,521 @@
+
+
+
+
+Template:Administrators' guide - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+		Contribute
+	
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+Languages
+
+Language links are at the top of the page across from the title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Personal tools
+
+
+
+
+ Create account Log in
+
+
+
+
+		Pages for logged out editors learn more
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1See also
+
+
+
+
+
+
+
+
+
+
+
+
+						Toggle the table of contents
+					
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Template:Administrators' guide
+
+
+
+
+12 languages
+
+
+
+অসমীয়াবাংলাفارسیМакедонскиമലയാളംMaltiଓଡ଼ିଆසිංහලТатарча / tatarçaతెలుగుاردوTiếng Việt
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+Template
+
+Talk
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read
+
+View source
+
+View history
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+ReadView sourceView history
+
+
+
+
+		General
+	
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+
+
+
+
+		Print/export
+	
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+vteAdministrators' guideArticles
+Advice for new administrators
+Blocking
+Cleaning backlogs
+Dealing with disputes
+Dealing with spam
+Deleting
+Edit filters
+Granting and revoking user rights
+History merging
+Protecting
+Reading list
+Rollback
+Tools, scripts and gadgets
+Viewing deleted pages and contributions
+Policies
+Administrator policy (WP:ADMIN)
+Banning policy (WP:BAN)
+Blocking policy (WP:BLOCK)
+Deletion policy (WP:DEL)
+Protection policy (WP:PROTECT)
+Revision deletion policy (WP:REVDEL)
+
+
+
+ Template documentation[view] [edit] [history] [purge]
+Shortcut{{admin guide}}
+Use  {{Administrators' guide|state=collapsed}}  to show this template in its collapsed (hidden) state. 
+Use  {{Administrators' guide|state=expanded}}  to show this template in its expanded (uncollapsed) state. (This is the default.) 
+Use  {{Administrators' guide|state=autocollapse}}  to show this template in its collapsed (hidden) state only if there is another template of the same type on the page.
+
+See also
+vteWikipedia editor navigation templatesHelp page navboxes
+Accounts
+Administrators' guide
+Basic information
+Categorization
+Citation metadata
+CSS and JS files
+Directories and indexes
+Dos and don'ts
+Essays
+Handling miscellanea
+Help desk searches
+Help pages
+IPA keys
+Lists
+Manual of Style
+MediaWiki messages
+Principles
+Policies and guidelines
+Referencing
+Relevance and scope
+Rule summaries
+Sock puppetry
+Speedy deletion navbox
+Technical help
+Templates
+Quick templates
+User scripts
+Writing guides
+Community navboxes
+Active Wiki Fixup Projects
+ArbCom Elections
+Community
+Core topics
+Deletion debates
+Goings-on
+History of Wikipedia
+In the media
+Long term abuse
+Noticeboards
+Regional notice boards
+Main Page topics
+Meetups
+Orders, decorations, and medals
+Requested articles
+Requested articles by country
+Requests for permissions
+RfA
+RfA by year
+RFC list
+Silly things
+Teahouse host pages
+Transwiki maintenance
+WikiFauna
+Wikipediholism
+WikiProjects
+Other navboxes
+Help desk searches
+User toolbox
+RfA/RfB
+Wikipedia
+Languages
+Wikimedia Foundation
+The Wikipedia Library resources
+The Wikipedia Library Navbox
+All-in-one navboxes
+Editor navigation
+Useful links
+Tools
+Rule sidebars
+Guideline list
+Manual of Style
+Notability guide
+Policy list
+Naming conventions
+Conduct policy
+Content policy
+Deletion policy
+Enforcement policy
+Legal policy
+Vandalism
+Content
+Other help sidebars
+About Wikipedia
+Accessibility
+Article creation
+Article resources
+Categorization
+Copyright
+Contributing to Wikipedia
+Disambiguation
+Discussions
+Editing
+Essay
+Featured article path
+Glossaries
+Linking and page manipulation
+Namespaces
+Processes
+Reader help
+Tutorials
+User access levels
+VisualEditor
+Wiki markup
+Wikipedian philosophies
+Community sidebars
+Active Wiki Fixup Projects
+April Fool's Day Main Page
+Arbitration Committee
+Awards
+Collaborations
+Common decisions and arguments
+CSD-categories
+Deletion debates
+Deletion tools
+Dispute resolution
+New Page Patrol
+Reward Board
+Resources for maintenance and collaboration
+Sockpuppet investigations
+Signpost
+Translation department
+WikiStats
+WikiProjects
+Bar-style headers
+Bots
+Community
+Edit filter
+Help pages
+Mediation Committee
+Programs
+WikiProjects
+For navboxes that link mostly to templates see the template navbox. See also WikiProject navigation and meetup categories.
+
+
+The above documentation is transcluded from Template:Administrators' guide/doc. (edit | history)Editors can experiment in this template's sandbox (create | mirror) and testcases (create) pages.Add categories to the /doc subpage. Subpages of this template.
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Administrators%27_guide&oldid=1141749828"
+Categories: Wikipedia Administrators' guideWikipedia help navigationHidden category: Wikipedia semi-protected templates
+
+
+
+
+
+
+ This page was last edited on 26 February 2023, at 16:17 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+

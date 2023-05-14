@@ -1,0 +1,602 @@
+
+
+
+
+Related changes - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+		Contribute
+	
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+		Languages
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Personal tools
+
+
+
+
+ Create account Log in
+
+
+
+
+		Pages for logged out editors learn more
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related changes
+
+Help
+
+
+
+
+
+
+
+
+
+Article
+
+Talk
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read
+
+Edit
+
+View history
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+ReadEditView history
+
+
+
+
+		General
+	
+
+AtomUpload fileSpecial pagesPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+← Tourism in Odisha
+
+Enter a page name to see changes on pages linked to or from that page. (To see members of a category, enter Category:Name of category). Changes to pages on your Watchlist are shown in bold with a green bullet. See more at Help:Related changes.
+
+
+Recent changes options
+Show last 50 | 100 | 250 | 500 changes in last 1 | 3 | 7 | 14 | 30 daysHide registered users | Hide unregistered users | Hide my edits | Show bots | Hide minor edits | Show page categorization | Show Wikidata | Hide probably good editsShow new changes starting from 06:25, 14 May 2023
+
+Namespace:
+all
+(Article)
+Talk
+User
+User talk
+Wikipedia
+Wikipedia talk
+File
+File talk
+MediaWiki
+MediaWiki talk
+Template
+Template talk
+Help
+Help talk
+Category
+Category talk
+Portal
+Portal talk
+Draft
+Draft talk
+TimedText
+TimedText talk
+Module
+Module talk
+Gadget
+Gadget talk
+Gadget definition
+Gadget definition talk
+  Invert selection  Associated namespaceTag filter:2017 wikitext editor
+Advanced mobile edit
+Android app edit
+AntiVandal script
+articles for deletion template removed
+automatic insertion of extraneous formatting
+AWB
+Barnsworth [1.0]
+blanking
+Blanking
+Bot in trial
+bup 2 [1.0]
+campaign-external-machine-translation
+canned edit summary
+categories removed
+changing height and/or weight
+Citation bot [1.1.0]
+Citation Bot [1.2.0]
+citing a blog or free web host
+COI template removed
+condition limit reached
+content model change
+content sourced to vanity press
+contentious topics alert
+ContentTranslation
+contenttranslation-needcheck
+ContentTranslation2
+Contest or editathon
+copyright violation template removed
+Correct typos in one click [1.0]
+Correct typos in one click [1.1]
+CropTool [1.2]
+CropTool [1.4]
+CropTool [1.5]
+DAB Mechanic [1.0]
+dashboard-testing.wikiedu.org [1.0]
+dashboard-testing.wikiedu.org [2.0]
+dashboard.wikiedu.org [1.0]
+dashboard.wikiedu.org [1.2]
+dashboard.wikiedu.org [2.0]
+dashboard.wikiedu.org [2.2]
+dashboard.wikiedu.org account-creation dev [1.0]
+dashboard.wikiedu.org dev [0.4.11]
+dashboard.wikiedu.org dev [0.4.2]
+dashboard.wikiedu.org dev [0.4.3]
+dashboard.wikiedu.org dev [0.4.4]
+dashboard.wikiedu.org dev [0.4.5]
+dashboard.wikiedu.org dev [0.4.7]
+dashboard.wikiedu.org dev [0.4.8]
+dashboard.wikiedu.org dev [0.4]
+dashboard.wikiedu.org dev [2.0]
+dashboard.wikiedu.org dev [2.1]
+demo-oauthratelimiter-3 [1.0]
+DiBabel [1.2]
+Disambiguation links added
+disambiguation template removed
+discussiontools (hidden tag)
+discussiontools-added-comment (hidden tag)
+discussiontools-source (hidden tag)
+discussiontools-source-enhanced (hidden tag)
+discussiontools-visual (hidden tag)
+Dispenser [1.0]
+Dispenser [2.4]
+Downstream Pull [0.1]
+editcheck-references (hidden tag)
+editProtectedHelper
+Education Dashboard development - awight [1.0]
+English Wikipedia Account Creation Assistance Tool [2.0]
+External link added to disambiguation page
+extraneous markup
+featured article or good article template added or removed
+Find link [1.0]
+fixed lint errors
+Fountain [0.1.3]
+Fountain Test [1.1]
+Huggle
+IABot [1.0]
+IABotManagementConsole (Personal Debug Consumer) [1.0]
+IABotManagementConsole [1.1]
+IABotManagementConsole [1.2]
+image template modification
+Incorrectly formatted external link or image
+iOS app edit
+Jonathan_at_WINTR_7 [1.0]
+large non-free file
+large plot addition
+large unwikified new article
+LCA Tools [1.0]
+LCA Tools [1.5]
+Localhost [1.0]
+Manual revert
+Mass pronoun change
+MassMessage delivery
+Medha_Bansal_intern_at_WikiEduDashboard [1.0]
+mentor list change
+Mentorship module question
+Mentorship panel question
+missing file added
+Mobile app edit
+Mobile edit
+Mobile web edit
+Modified by FileImporter
+moveToDraft
+MTC-Web for local dev/testing [1.0]
+MTCWeb-Dev [1.0]
+New redirect
+New topic
+new user modifying archives
+new user moving page out of userspace
+Newcomer task
+Newcomer task: copyedit
+Newcomer task: expand
+Newcomer task: links
+Newcomer task: references
+Newcomer task: update
+Non-autoconfirmed user rapidly reverting edits
+non-English content
+nowiki added
+OAbot [1.0]
+OAbot [2.1]
+OAuth Uploader [1.0]
+outreachdashboard.wmflabs.org [2.0]
+outreachdashboard.wmflabs.org [2.1]
+PageTriage
+Parliament edits
+PAWS [1.2]
+PAWS [2.1]
+possible autobiography or conflict of interest
+possible birth or death date change
+possible BLP issue or vandalism
+possible conflict of interest
+possible cut and paste move or recreation
+possible MOS:ETHNICITY violation
+Possible self promotion in user or draftspace
+Possible self promotion in userspace
+possible unreferenced addition to BLP
+possible userspace spam
+possible vandalism
+possible WP:BLPCRIME issue
+possibly inaccurate edit summary
+ProveIt edit
+QuickCategories [1.0]
+QuickCategories [1.1]
+Redirect target changed
+reference list removal
+references removed
+removal of Category:Living People
+Removed redirect
+repeated addition of external links by non-autoconfirmed user
+Replaced
+Reply
+Reverted
+reverting anti-vandal bot
+review edit
+Rollback
+RW
+section blanking
+self-renaming or bad user talk move
+Shortdesc helper
+shouting
+Snuggle (English Wikipedia) [1.0.0]
+speedy deletion template removed
+STiki
+Suggestor [0.0.1]
+SWViewer [1.0]
+SWViewer [1.2]
+SWViewer [1.3]
+SWViewer [1.4]
+Takedown Tools [1.0]
+talk page blanking
+Text added at end of page
+TorProxy [0.1]
+TorProxy [0.2]
+Twinkle
+U.S. Congress edit
+Ultraviolet
+Undo
+unsourced AFC submission
+unusual redirect
+use of deprecated (unreliable) source
+use of predatory open access journal
+User Analysis Tool [1.0]
+very short new article
+Visual edit
+Visual edit: Check
+Visual edit: Switched
+Weekipedia v3 [1.0]
+Weekipedia2 [1.0]
+wikieditor (hidden tag)
+wikiedu Assignment Wizard 2.0 Teting [1.0]
+wikiedu Assignment Wizard [1.0]
+wikiedu.org Assignment Design Wizard (testing) [0.99]
+wikiedu.org Assignment Design Wizard [1.0.1]
+wikiedu.org Assignment Design Wizard [1.0.2]
+WikiEduDashboard NTDB [1.2]
+WikiEduDashboard NTDB3 [1.0]
+WikiEduDashboard NTDB4 [1.0]
+WikiEduDashboard NTDB5 [1.0]
+WikiEduWizard NTDB [1.2]
+Wikifile Transfer [1.0]
+Wikifile Transfer [2.0]
+Wikifile Transfer [4.0]
+WikiLeaks
+wikilinks removed
+WikiLoop Battlefield
+WikiLoop Battlefield Dev Local [2.0.0]
+WikiLoop Battlefield on WMF Cloud VPS [1.0]
+WikiLoop Battlefield Prod [2.2.1-beta]
+WikiLoop DoubleCheck WMF Cloud VPS (2020-07-13 version) [4.1.0]
+wikilove
+WINTR Wikiedu Dashboard Local Test 3 [1.0]
+WINTR Wikiedu Wizard Local Test [1.0]
+WPCleaner
+yabbr [1.3]  Invert selectionPage name: Show changes to pages linked to the given page instead 
+
+List of abbreviations (help):
+D
+Edit made at Wikidata
+r
+Edit flagged by ORES
+N
+New page
+m
+Minor edit
+b
+Bot edit
+(±123)
+Page byte size change
+Temporarily watched page
+14 May 2023
+diffhist  Odisha‎ [pending revisions] 04:57  +7‎   ‎134.41.166.201 talk‎ (→‎Dance: Fixed typo) Tags: Mobile edit Mobile web edit
+diffhist  Odisha‎ [pending revisions] 04:56  +404‎   ‎134.41.166.201 talk‎ (Edited content, added) Tags: Visual edit Mobile edit Mobile web edit
+diffhist  Sport in India‎ 04:55  +217‎   ‎Tesla car owner talk contribs‎ Tags: Visual edit Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Sport in India‎ 04:21  +4‎   ‎Tesla car owner talk contribs‎ (→‎Sports equipment industry: Its not main page) Tags: Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Sport in India‎ 04:18  +38‎   ‎Tesla car owner talk contribs‎ Tags: Visual edit Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Sport in India‎ 04:09  +2‎   ‎Tesla car owner talk contribs‎ (→‎Sports education: Tried to arrenge names alphabetically, some part of work is still not complete.) Tags: Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Kali‎ 02:50  −1,253‎   ‎117.198.116.86 talk‎ (Please see talk page about this edit - Moving it to it's own section under "Comparative scholarship". Simplified.) 
+
+13 May 2023
+diffhist  Indian diaspora‎ 23:36  +200‎   ‎2a02:8084:9043:6900:1062:724d:b3e3:931b talk‎ (→‎Demography by country:  Ireland) 
+diffhist  m Gopalpur, Odisha‎ 20:45  +1‎   ‎WereSpielChequers talk contribs‎ (typo) 
+diffhist  Tourism in Karnataka‎ 17:50  −1,114‎   ‎Multienderguy37 talk contribs‎ (Edited for tone and grammar.) Tags: Visual edit nowiki added
+diffhist  m Hindi cinema‎ 17:45  +5‎   ‎Bearcat talk contribs‎ (clean up) Tag: AWB
+diffhist  m Cinema of Odisha‎ 17:45  −54‎   ‎Bearcat talk contribs‎ (clean up) Tag: AWB
+diffhist  List of botanical gardens in India‎ 17:22  −22‎   ‎Malayala Sahityam talk contribs‎ (Undid revision 1154263176 by Sanalchalil (talk)) Tag: Undo
+diffhist  Maa Tarini Temple, Ghatgaon‎ 17:15  +64‎   ‎Klbrain talk contribs‎ (Linking discussion in the template) 
+diffhist  m Tourism in Bihar‎ 15:51  −4‎   ‎Davemck talk contribs‎ (Clean up duplicate template arguments using findargdups; replace "Archived copy") 
+diffhist  Bhubaneswar‎ 15:43  +267‎   ‎Jenasatish talk contribs‎ (→‎Economy) Tags: Mobile edit Mobile web edit
+diffhist  Kali‎ 14:22  −6‎   ‎103.155.198.87 talk‎ Tags: Mobile edit Mobile web edit
+diffhist  Odisha Legislative Assembly‎ 13:30  +75‎   ‎Dhruv edits talk contribs‎ (→‎Members of Legislative Assembly: Correction) Tags: Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Odisha Legislative Assembly‎ 13:27  +2‎   ‎Dhruv edits talk contribs‎ 
+diffhist  Odisha Legislative Assembly‎ 13:26  −97‎   ‎Dhruv edits talk contribs‎ Tags: Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Jagannath Temple, Puri‎ 12:16  −58‎   ‎Dāsānudāsa talk contribs‎ (in fact, why is the Hindi here too) 
+diffhist  Jagannath Temple, Puri‎ 12:15  −44‎   ‎Dāsānudāsa talk contribs‎ (Reverted good faith edits by YATHISH AS (talk): Not in Karnatikaa) Tags: Twinkle Undo
+diffhist  India‎ 11:43  −1,653‎   ‎Fowler&fowler talk contribs‎ (Restored revision 1154305582 by Abecedare (talk): Please achieve a consensus for your edits on the talk page) Tags: Twinkle Undo
+diffhist  Bhadrak district‎ 11:20  −41‎   ‎2402:3a80:18a3:c1bd:7ce7:3fb4:ac44:1bf talk‎ (→‎Tourist places: Fixed) Tags: Mobile edit Mobile web edit possibly inaccurate edit summary
+diffhist  m Bhadrak district‎ 11:19  −169‎   ‎Materialscientist talk contribs‎ (Reverted edits by 2402:3A80:18A3:C1BD:7CE7:3FB4:AC44:1BF (talk): original research (HG) (3.4.12)) Tags: Huggle Rollback
+diffhist  Bhadrak district‎ 11:17  −1‎   ‎2402:3a80:18a3:c1bd:7ce7:3fb4:ac44:1bf talk‎ (→‎Origin of name: Fixed typo) Tags: Reverted Mobile edit Mobile web edit
+diffhist  Bhadrak district‎ 11:17  +170‎   ‎2402:3a80:18a3:c1bd:7ce7:3fb4:ac44:1bf talk‎ (→‎Origin of name: Added content) Tags: Reverted Mobile edit Mobile web edit
+diffhist  Gajapati district‎ 10:10  −23‎   ‎BishnuCharanSahoo1963 talk contribs‎ (→‎Language) Tags: Mobile edit Mobile web edit
+diffhist  Gajapati district‎ 10:03  −1‎   ‎BishnuCharanSahoo1963 talk contribs‎ Tags: Mobile edit Mobile web edit
+diffhist  Odisha Legislative Assembly‎ 09:46  +4‎   ‎Ganesh Kumar Chellarakku talk contribs‎ (→‎Members of Legislative Assembly) Tags: Mobile edit Mobile web edit
+diffhist  Odisha Legislative Assembly‎ 09:42  +79‎   ‎BishnuCharanSahoo1963 talk contribs‎ Tags: Mobile edit Mobile web edit
+diffhist  Odisha Legislative Assembly‎ 09:12  −123‎   ‎BishnuCharanSahoo1963 talk contribs‎ Tags: Mobile edit Mobile web edit
+diffhist  Eastern Ganga dynasty‎ 08:41  −38‎   ‎Lancepark talk contribs‎ (Restored revision 1147808253 by Reo kwon (talk): Rv unsourced) Tags: Twinkle Undo
+diffhist  Sport in India‎ 08:18  −17‎   ‎Achmad Rachmani talk contribs‎ (→‎Sports education: Line feed) Tags: Mobile edit Mobile web edit
+diffhist  Bhubaneswar‎ 08:03  +2‎   ‎TaDrian58 talk contribs‎ (→‎Sports) Tags: Mobile edit Mobile web edit
+diffhist  Munnar‎ 07:57  +44‎   ‎Boibr talk contribs‎ Tags: Mobile edit Mobile app edit Android app edit
+diffhist  Mayurbhanj district‎ 07:52  +4‎   ‎MaxA-Matrix talk contribs‎ (→‎Politics) Tags: Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Cricket in India‎ 07:33  +6‎   ‎Achmad Rachmani talk contribs‎ (→‎Celebrities: Date error) Tags: Mobile edit Mobile web edit
+diffhist  Cricket in India‎ 07:16  −297‎   ‎Pdugar2 talk contribs‎ (Minor citation edits) Tag: Visual edit
+diffhist  Cricket in India‎ 07:12  +2,727‎   ‎Pdugar2 talk contribs‎ (Added sub-heading "Celebrities" to the section "Portrayal in Popular Culture". Created line in Lead section referencing Cricket's portrayal in popular culture.) Tag: Visual edit
+diffhist  India‎ 07:01  +75‎   ‎Footy2000 talk contribs‎ (→‎History) Tags: Reverted Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Sport in India‎ 07:00  +114‎   ‎Tesla car owner talk contribs‎ (→‎Mixed Martial Arts: Photograph of Bidhidharm added.) Tags: Mobile edit Mobile web edit Advanced mobile edit
+diffhist  India‎ 07:00  +13‎   ‎Footy2000 talk contribs‎ (→‎History) Tags: Reverted Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Sport in India‎ 06:53  +13‎   ‎Tesla car owner talk contribs‎ (ec) Tags: Visual edit Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Tourism in Gujarat‎ 06:49  −1,003‎   ‎SovalValtos talk contribs‎ (→‎Outline of tourism in India:  Removing list of links) 
+diffhist  Sport in India‎ 06:48  −70‎   ‎Tesla car owner talk contribs‎ (Promotional external links remvd) Tags: Visual edit Mobile edit Mobile web edit Advanced mobile edit
+diffhist  Tourism in Gujarat‎ 06:47  −262‎   ‎SovalValtos talk contribs‎ (→‎Medical tourism:  Removing uncited puff) 
+Protection log 06:43  Materialscientist talk contribs protected Cuisine of Odisha [Edit=Require autoconfirmed or confirmed access] (expires 06:43, 13 June 2023) [Move=Require autoconfirmed or confirmed access] (expires 06:43, 13 June 2023) ‎(Persistent disruptive editing) (hist)
+diffhist  Cuisine of Odisha‎ 06:42  −87‎   ‎Materialscientist talk contribs‎ (Undid revision 1154256119 by 2402:8100:2278:2402:BDB7:A65C:EDD2:9DCD (talk)) Tag: Undo
+diffhist  m Cuisine of Odisha‎ 06:42  +10‎   ‎Materialscientist talk contribs‎ (Reverted edits by 2402:8100:2274:6037:7843:708E:7955:15CD (talk) (HG) (3.4.12)) Tags: Huggle Rollback
+
+
+Retrieved from "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Tourism_in_Odisha"
+
+
+
+
+
+
+
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+

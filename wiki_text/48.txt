@@ -1,0 +1,5987 @@
+
+
+
+
+Odia script - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+		Contribute
+	
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+Languages
+
+Language links are at the top of the page across from the title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Personal tools
+
+
+
+
+ Create account Log in
+
+
+
+
+		Pages for logged out editors learn more
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1History
+
+
+
+
+
+
+
+2Alphabet
+
+
+				Toggle Alphabet subsection
+			
+
+
+
+
+2.1Independent vowels
+
+
+
+
+
+
+
+2.2Consonants
+
+
+
+
+
+
+
+2.3Structured consonants
+
+
+
+
+
+
+
+2.4Unstructured consonants
+
+
+
+
+
+2.4.1Notes
+
+
+
+
+
+
+
+
+
+
+
+3Vowel diacritics
+
+
+
+
+
+
+
+4Signs and punctuation
+
+
+
+
+
+
+
+5Consonant ligatures
+
+
+				Toggle Consonant ligatures subsection
+			
+
+
+
+
+5.1Ambiguities
+
+
+
+
+
+
+
+
+
+6Karani script or Odia cursive/calligraphic style
+
+
+
+
+
+
+
+7Numerals
+
+
+
+
+
+
+
+8Comparison of Odia script with ancestral and related scripts
+
+
+				Toggle Comparison of Odia script with ancestral and related scripts subsection
+			
+
+
+
+
+8.1Vowels
+
+
+
+
+
+
+
+8.2Consonants
+
+
+
+
+
+
+
+8.3Vowel diacritics
+
+
+
+
+
+
+
+
+
+9Sample text
+
+
+				Toggle Sample text subsection
+			
+
+
+
+
+9.1Universal Declaration of Human Rights
+
+
+
+
+
+
+
+
+
+10Unicode
+
+
+
+
+
+
+
+11Gallery
+
+
+
+
+
+
+
+12Notes
+
+
+
+
+
+
+
+13See also
+
+
+
+
+
+
+
+14References
+
+
+
+
+
+
+
+15External links
+
+
+
+
+
+
+
+
+
+
+
+
+						Toggle the table of contents
+					
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Odia script
+
+
+
+
+31 languages
+
+
+
+अंगिकाবাংলাBrezhonegCatalàDeutschΕλληνικάEspañolFrançais한국어Հայերենहिन्दीBahasa IndonesiaItalianoLietuviųLingua Franca Nova日本語Norsk bokmålଓଡ଼ିଆਪੰਜਾਬੀپنجابیPolskiPortuguêsРусскийसंस्कृतम्ᱥᱟᱱᱛᱟᱲᱤسنڌيSuomiSvenskaTagalogไทย中文
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+Article
+
+Talk
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read
+
+Edit
+
+View history
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+ReadEditView history
+
+
+
+
+		General
+	
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+		Print/export
+	
+
+Download as PDFPrintable version
+
+
+
+
+		In other projects
+	
+
+Wikimedia Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Script primarily used to write the Odia language
+Not to be confused with the Naoriya script, which sounds close to the "Oriya script".
+
+
+Odia scriptଓଡ଼ିଆ ଅକ୍ଷରOdiā akṣara‘Odiā akṣara’ written in Odia scriptScript type Abugida
+Time periodc. 14th century – present[1]Directionleft-to-right LanguagesOdia, Sanskrit, Kui, Sora, Kuvi, Santali, Chhattisgarhi, HalbiRelated scriptsParent systemsProto-Sinaitic script[a]Phoenician alphabet[a]Aramaic alphabet[a]Brahmi scriptGupta scriptSiddhaṃ script[2][3]Gaudi script[4][5]Odia scriptSister systemsBengali–Assamese, Tirhuta, Nāgarī, Nepalese[2][5][6]ISO 15924ISO 15924Orya (327), ​Oriya (Odia)UnicodeUnicode aliasOriyaUnicode rangeU+0B00–U+0B7F[a] The Semitic origin of the Brahmic scripts is not universally agreed upon. This article contains phonetic transcriptions in the International Phonetic Alphabet (IPA). For an introductory guide on IPA symbols, see Help:IPA. For the distinction between [ ], / / and ⟨ ⟩, see IPA § Brackets and transcription delimiters.
+
+
+Part of a series on
+
+
+
+
+
+
+
+
+
+Officially used writing systems in India
+
+
+Category
+
+
+Indic scripts
+
+
+
+Bengali-Assamese script
+ ·
+Devanagari script
+
+Gujarati script
+ ·
+Gurmukhi script
+ ·
+Kannada script
+
+Malayalam script
+ ·
+Meitei script
+ ·
+Odia script
+
+Tamil script
+ ·
+Telugu script
+
+
+
+Arabic derived scripts
+
+
+
+Perso-Arabic script
+ ·
+Urdu script
+
+
+
+Alphabetical scripts
+
+
+
+Ol Chiki script  · Latin script
+
+
+
+Related
+
+
+
+Official scripts of the Indian Republic
+
+Writing systems of India
+
+Languages of India
+
+
+
+ Asia portal
+ India portal  Language portal  Writing portal
+
+
+
+
+This article contains Odia text. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Odia script.
+
+Brahmic scripts
+The Brahmic script and its descendants
+Northern Brahmic
+Gupta
+Sharada
+Landa
+Gurmukhi
+Khojki
+Khudabadi
+Multani
+Mahajani
+Takri
+Dogri
+Siddham
+Nagari
+Devanagari
+Gujarati
+Modi
+Canadian Syllabics
+Inuktitut
+Cree
+Nandinagari
+Kaithi
+Sylheti Nagri
+Gaudi
+Bengali–Assamese
+Bengali
+Assamese
+Tirhuta
+Odia
+Nepalese
+Bhujimol
+Ranjana
+Soyombo
+Pracalit
+Tibetan
+Meitei
+Lepcha
+Limbu
+Khema
+Phagspa
+Zanabazar square
+Marchen
+Marchung
+Pungs-chen
+Pungs-chung
+Drusha
+Kalinga
+Bhaiksuki
+Tocharian
+
+Southern Brahmic
+Tamil-Brahmi
+Pallava
+Tamil
+Grantha
+Malayalam
+Tigalari
+Dhives Akuru
+Saurashtra
+Khmer
+Khom Thai
+Proto-Tai script?
+Sukhothai
+Thai
+Fakkham
+Thai Noi
+Lao
+Tai Viet
+Dai Don
+Lai Tay
+Lai Pao
+Cham
+Kawi
+Balinese
+Batak
+Bima
+Buda
+Javanese
+Old Sundanese
+Sundanese
+Lampung
+Lontara
+Makasar
+Rencong
+Rejang
+Baybayin
+Buhid
+Hanunoo
+Tagbanwa
+Kulitan
+Mon–Burmese
+Burmese
+Chakma
+S'gaw Karen
+Shan
+Tanchangya
+Lik-Tai scripts
+Ahom
+Khamti
+Tai Le
+Modern Mon
+Tai Tham
+New Tai Lue
+Pyu
+Vatteluttu
+Kolezhuthu
+Malayanma
+Sinhala
+Bhattiprolu
+Kadamba
+Telugu-Kannada
+Kannada
+Goykanadi
+Telugu
+vte
+The Odia script (Odia: ଓଡ଼ିଆ ଅକ୍ଷର, romanized: Odiā akṣara) is a Brahmic script used to write primarily Odia language and others including Sanskrit and other regional languages. It is one of the official scripts of the Indian Republic. The script has developed over more than 1000 years from a variant of Siddhaṃ script which was used in Eastern India, where the characteristic top line transformed into a distinct round umbrella shape due to the influence of palm leaf manuscripts and also being influenced by the neighbouring scripts from the Western and Southern regions.
+Odia is a syllabic alphabet or an abugida wherein all consonants have an inherent vowel embedded within. Diacritics (which can appear above, below, before, or after the consonant they belong to) are used to change the form of the inherent vowel. When vowels appear at the beginning of a syllable, they are written as independent letters. Also, when certain consonants occur together, special conjunct symbols combine the essential parts of each consonant symbol.
+An important feature of the Odia language seen in the script is the retention of inherent vowel in consonants, also known as schwa, at both medial and final positions. This absence of schwa deletion, which is also seen in Sanskrit, marks it from the rest of modern Indo-Aryan languages and their equivalent usage in related Brahmic scripts. The absence of the inherent vowel in the consonant is marked by a virama or halanta sign below the consonant.
+
+
+History[edit]
+In Eastern India, a derivative of Siddhaṃ script yielded a group of scripts that eventually became Bengali-Assamese scripts, Tirhuta script and the Odia script, with the latter turning the hook into a characteristic umbrella.[2] The earliest known example of Odia language, in the Kalinga script, dates from 1051.[7][8]
+
+ Sample of the Odia alphabet from a Buddhist text from around 1060 AD, written by Sarahapada
+ Temple inscription showing 13th century Siddhaṃ script variant ancestor of modern Odia script at Ananta Vasudeva Temple
+ 15th century copper plate grant of Gajapati emperor Purushottama Deva, showing the distinct formation of the shape of the modern Odia script
+The curved appearance of the Odia script is a result of the practice of writing on palm leaves, which have a tendency to tear with the use of too many straight lines.[9]
+As with all the Brahmic scripts in the region, the Odia script developed through four stages which can be seen from the stone inscriptions, copper-plates and the manuscripts. The periods of development are in the following order,
+
+Proto-Odia: ca 7th- 9th CE
+Medieval Odia: ca 10th- 12th CE
+Transitional Odia: ca 12th- 14th CE
+Modern (current) Odia: ca 14th- 16th CE
+The archaic and medieval forms of Odia are more influenced by the calligraphy of the scripts of neighbouring regions, such as,
+
+In Northern Odisha, where the letters are written in Odia, mixed in with Siddham-derived Gaudi style (that is the right vertical part of the letter is slightly bent inwards).
+In southern Odisha, where it is mixed with Telugu-Kannada round, cursive form.
+In Western Odisha, where it is mixed with Nagari and Siddham (squarish shape in upper-part).
+With regards to the epigraphical sources, the antiquities which display the various historical forms of writing in Odia script include rock-edicts, temple inscriptions, stone-slabs, pillar inscriptions, sculptures, copper-plates, coins and palm-leaf manuscripts, illustrated manuscripts, ivory plates and allied materials. Numerous instances of the items depicting all the respective stages of the development of the Odia script during the illustrious dynasties of Eastern Ganga, Somavanshi, Bhanja, Bhauma-kara, Sailodbhava dynasties.
+Some of them belonging to different centuries are as follows-
+
+One of the earliest specimens of the Odia script is that of the Urjam inscription dating from the 11th CE (1051 CE). The language used in the inscriptions is a dialect spoken on the border regions of Odisha and Madhya Pradesh. The same applies to a bilingual and biscriptual stone inscription (Odia and Tamil) from the reign of Narasimhadeva (13th CE), found at Bhubaneswar. Odia language in old Odia script is seen on the right side while Tamil in Grantha on the left side.
+The Gumsur copper-plate grant of Netribhanjadeva (11th CE) depicts the medieval phase of this script in square and round variety.
+The stone inscription of the Pottesvara temple, Ganjam district (137 CE), is a notable example of Odia script influenced by Telugu-Kannada variety.
+The Antirigam plate of Yashabhanjadeva (12th CE) depicts Odia calligraphy influenced by northern Nagari. The differences in letters script seems to indicate of the script being in a transitional phase.
+Khilor inscription of Anantavarman (12th CE) shows the Gaudi or Proto-Oriya script[4] round shape on the upper part, almost developed like the modern ones.
+The early epigraphical records of the Puri inscriptions of Anangabhima III (1211-1238 CE), which is considered to be as one of the earliest Odia inscriptions showing the Gaudi characters, not only shows the stage of the proto, early and medieval phase if the evolution of the Odia script, but also the numericals in early proto-Oriya type while others to be that of the Telugu-Kannada type. The earlier inscription of Chodagangadeva (1114-1115 CE) shows the Late Siddhaṃ variety where the pristhamatra style of vowel diacritics is quite prominent.
+In the records of Kenduapatna copper-plates in Sanskrit of the Eastern Ganga King Narasimhadeva II (1278-1305 CE), a transitional variety is seen depicting the development of Odia from Gaudi (showing squarish with round headlines in a ductus that is quite commonly seen on copper-plates and stone inscriptions).
+The copper-plate land-grant record of the Gajapati King Purushottamadeva (15th CE), inscribed on a copper axe-head, shows the distinct early version of the modern Odia script which are also seen on the palm-leaves manuscripts belonging to the 15th CE.
+With regards to the manuscript sources, the full-fledged script of Odia acquires its classical umbrella hook shape through the development, modification as well as simplification between the 14th and 15th CE, when the palm-leaf manuscript culture becomes dominant in this region. Since the palm-leaves are perishable in nature, no manuscripts are currently available pre-15th CE. Hence, recent works are also important as they show the rare and ancient text as well as artistic illustrations. One of the earliest dated palm-leaf manuscripts is that of Abhinava Gita-Govinda kept in Odisha State Museum. The date of completion of the manuscript is estimated to be that of 1494 CE. Among other manuscripts present at the museum, includes historical works like manuscripts of Jayadeva’s Gita-Govinda (16th CE) to the relatively recent works of 18th,19th and 20th century.[3]
+Overwhelmingly, the Odia script was used to write the Odia language. However, it has been used as a regional writing-system for Sanskrit. Furthermore, Grierson[10] in his famed Linguistic Survey of India mentioned that the Odia script is sometimes used for Chhattisgarhi, an Eastern Hindi language, in the eastern border regions of Chhattisgarh. However it appears to have been replaced with the Devanagari script.
+
+Alphabet[edit]
+ Development of Odia scripts
+
+
+
+
+Odia alphabet
+
+The names of the letters and numericals in spoken Standard Modern Odia
+Problems playing this file? See media help.
+
+Odia is an alphasyllabic alphabet or an abugida wherein all consonants have an inherent vowel embedded within. Diacritics (which can appear above, below, before or after the consonant they belong to) are used to change the form of the inherent vowel.  When vowels appear at the beginning of a syllable, they are written as independent letters. Also, when certain consonants occur together, special conjunct symbols are used to combine the essential parts of each consonant symbol. The list of vowels and consonants(both structured and unstructured) are as follows:[3][11]
+
+Independent vowels[edit]
+The following are the list of Odia vowels.
+
+
+Odia vowels(ସ୍ୱର ବର୍ଣ୍ଣ swara barṇṇa)
+
+
+
+
+ହ୍ରସ୍ୱ Hraswa (Short vowel)
+
+
+
+ଦୀର୍ଘ Dirgha (Long vowel)
+
+
+
+
+ସ୍ୱରVowel, Phoneme
+
+କାର(ମାତ୍ରା)Diacritic, with କ୍(k)
+
+
+
+ସ୍ୱରVowel, Phoneme
+
+କାର(ମାତ୍ରା)Diacritic, with କ୍(k)
+
+
+କଣ୍ଠ୍ୟ(Guttural)
+
+ଅ
+
+a(ɔ)
+
+-
+
+କ
+
+
+
+ଆ
+
+ā(a)
+
+ା
+
+କା
+
+
+ତାଲବ୍ୟ(Palatal)
+
+ଇ
+
+i(i)
+
+ି
+
+କି
+
+
+
+ଈ
+
+ī(i)
+
+ୀ
+
+କୀ
+
+
+ଓଷ୍ଠ୍ୟ(Labial)
+
+ଉ
+
+u(u)
+
+ୁ
+
+କୁ
+
+
+
+ଊ
+
+ū(u)
+
+ୂ
+
+କୂ
+
+
+ମୂର୍ଦ୍ଧନ୍ୟ(Retroflex)
+
+ଋ
+
+r̥(ru)
+
+ୃ
+
+କୃ
+
+
+
+ୠ
+
+r̥̄(ru)
+
+ୄ
+
+କୄ
+
+
+ଦନ୍ତ୍ୟ(Retroflex)
+
+ଌ
+
+l̥(lu)
+
+ୢ
+
+କୢ
+
+
+
+ୡ
+
+l̥̄(lu)
+
+ୣ
+
+କୣ
+
+
+Other Vowels
+
+
+କଣ୍ଠ୍ୟତାଲବ୍ୟ(Palatoguttural)
+
+ଏ
+
+e(e)
+
+େ
+
+କେ
+
+
+
+ଐ
+
+ai(ɔi)
+
+ୈ
+
+କୈ
+
+
+କଣ୍ଠୌଷ୍ଠ୍ୟ(Labioguttural)
+
+ଓ
+
+o(o)
+
+ୋ
+
+କୋ
+
+
+
+ଔ
+
+au(ɔu)
+
+ୌ
+
+କୌ
+
+There is no significant difference in the pronunciation of both short and long vowels (ଇ, ଈ & ଉ, ଊ). Also, the vowels ୠ, ଌ, ୡ and their diacritics are only required while writing Sanskrit in Odia script and not used significantly in modern Odia, hence they are not always mentioned in the Odia alphabet.
+
+
+Other forms of vowel diacritics
+
+
+Vowel Letter
+
+Diacritic forms
+
+
+For the vowel ଇ(i), there exists another diacritic form for these consonants- ଖ (kha), ଥ (tha), ଧ (dha).This diacritic is a remnant from the Odia cursive style variant Karani script (କରଣୀ ଅକ୍ଷର).
+(Not to be confused with ତ୍କ,ତ୍ନ,ତ୍ପ,ତ୍ମ,ତ୍ସ, where this underside hook represents the ତ୍(t) ligature preceding the consonants କ,ନ,ପ,ମ,ସ)
+
+
+ଖି (khi) ଥି (thi) ଧି (dhi)
+
+Consonants[edit]
+ A detailed chart depicting evolution of the Odia script as displayed in a museum at Ratnagiri, Odisha
+Two categories of consonant letters (ବ୍ୟଞ୍ଜନ byan̄jana) are defined in Odia: the structured consonants (ବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ bargya byan̄jana) and the unstructured consonants (ଅବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ abargya byan̄jana).
+The first standardised Odia alphabet book was compiled by Madhusudan Rao named Barnabodha in 1895. As seen from the alphabet list, the phonemes Ba, Va and Wa were represented by the same letter ବ, with the sound Va & Wa being represented by the name abargya ba (ଅବର୍ଗ୍ୟ ବ). This can be seen in Barnabodha in 1896. This was because the phonemes Ba and Va merged in the Eastern Indo-Aryan languages and was represented by the same letter, in case of Odia- ବ. While the phoneme Wa existed through the consonant ligature symbol, which it shared with Ba- ୍ୱ (ସ୍ୱାଧୀନ- swādhīna). Gopala Chandra Praharaj, who compiled and published the first comprehensive Odia dictionary, Purnachandra Odia Bhashakosha(1931-40), introduced a new letter ୱ to the script inventory to represent the phonetic sound of Wa in order to distinguish it from the same symbol which it earlier shared with Ba. While an alternate letter for Wa was represented by ଵ, but has not gained full acceptance and instead Praharaj's letter has remained the widely used and recognised letter.[12][13][14]
+
+Structured consonants[edit]
+The structured consonants(ବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ) are classified according to where the tongue touches the palate of the mouth and are classified accordingly into five structured groups. These consonants are shown here with their ISO transliteration.
+
+
+Odia structured consonants
+(ବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ ବର୍ଣ୍ଣ bargya byañjana barṇṇa)
+
+
+Phonetics →
+
+Plosiveସ୍ପର୍ଶ sparśa
+
+Nasalଅନୁନାସିକ anunāsika
+
+
+Voicing →
+
+Voicelessଅଘୋଷ aghoṣa
+
+Voicedଘୋଷ ghoṣa
+
+
+Aspiration →
+
+Unaspiratedଅଳ୍ପପ୍ରାଣ aḻpaprāṇa
+
+Aspiratedମହାପ୍ରାଣ mahāprāṇa
+
+Unaspiratedଅଳ୍ପପ୍ରାଣ aḻpaprāṇa
+
+Aspiratedମହାପ୍ରାଣ mahāprāṇa
+
+Unaspiratedଅଳ୍ପପ୍ରାଣ aḻpaprāṇa
+
+
+କଣ୍ଠ୍ୟVelar
+
+କ
+ka (kɔ)
+
+ଖ
+kha (kʰɔ)
+
+ଗ
+ga (ɡɔ)
+
+ଘ
+gha (ɡʱɔ)
+
+ଙ
+ṅa (ŋɔ)
+
+
+ତାଲବ୍ୟPalatal
+
+ଚ
+ca (tʃɔ)
+
+ଛ
+cha (tʃʰɔ)
+
+ଜ
+ja (dʒɔ)
+
+ଝ
+jha (dʒʱɔ)
+
+ଞ
+ña (ɲɔ)
+
+
+ମୂର୍ଦ୍ଧନ୍ୟRetroflex
+
+ଟ
+ṭa (ʈɔ)
+
+ଠ
+ṭha (ʈʰɔ)
+
+ଡ
+ḍa (ɖɔ)
+
+ଢ
+ḍha (ɖʱɔ)
+
+ଣ
+ṇa (ɳɔ)
+
+
+ଦନ୍ତ୍ୟDental
+
+ତ
+ta (tɔ)
+
+ଥ
+tha (tʰɔ)
+
+ଦ
+da (dɔ)
+
+ଧ
+dha (dʱɔ)
+
+ନ
+na (nɔ)
+
+
+ଓଷ୍ଠ୍ୟLabial
+
+ପ
+pa (pɔ)
+
+ଫ
+pha (pʰɔ)
+
+ବ
+ba (bɔ)
+
+ଭ
+bha (bʱɔ)
+
+ମ
+ma (mɔ)
+
+Unstructured consonants[edit]
+The unstructured consonants (ଅବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ) are consonants that do not fall into any of the above structures:
+
+
+Odia unstructured consonants
+(ଅବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ ବର୍ଣ୍ଣ abargya byañjana barṇṇa)
+
+
+Characteristics
+Consonants
+Phonetics
+
+
+Voiced unaspirated Palatalused as Voiced postalveolar affricateApproximant (ଅନ୍ତଃସ୍ଥ antaḥstha)
+ଯ
+ẏa (dʒɔ)
+antaḥstha ja
+
+
+Voiced unaspirated PalatalApproximant (ଅନ୍ତଃସ୍ଥ antaḥstha)
+ୟ
+ya (jɔ)
+ya
+
+
+Voiced unaspirated RetroflexApproximant (ଅନ୍ତଃସ୍ଥ antaḥstha)
+ର
+ra (ɾɔ)
+ra
+
+
+Voiced retroflex lateral approximant
+ଳ
+ḷa (ɭɔ)
+ḷa
+
+
+Voiced unaspirated DentalApproximant (ଅନ୍ତଃସ୍ଥ antaḥstha)
+ଲ
+la (lɔ)
+la
+
+
+Voiced unaspirated LabialApproximant (ଅନ୍ତଃସ୍ଥ antaḥstha)
+ୱ
+wa (wɔ)
+wa(also ଅବର୍ଗ୍ୟ ବ abargya ba)[nc 1]
+
+
+Voiced unaspirated Palatal SibilantFricative (ଊଷ୍ମ ūṣma)
+ଶ
+śa (sɔ)
+talabya sa(ତାଲବ୍ୟ)
+
+
+Voiced unaspirated Retroflex SibilantFricative (ଊଷ୍ମ ūṣma)
+ଷ
+ṣa (sɔ)
+murddhanya sa(ମୂର୍ଦ୍ଧନ୍ୟ)
+
+
+Voiced unaspirated Dental SibilantFricative (ଊଷ୍ମ ūṣma)
+ସ
+sa (sɔ)
+dantya sa(ଦନ୍ତ୍ୟ)
+
+
+Voiced aspirated GutturalFricative (ଊଷ୍ମ ūṣma)
+ହ
+ha (ɦɔ)
+ha
+
+
+Voiced retroflex flap
+ଡ଼
+ṛa (ɽɔ)
+ḍa
+
+
+Voiced retroflex flap
+ଢ଼
+ṛha (ɽʰɔ)
+ḍha
+
+
+Conjunct of କ & ଷ
+କ୍ଷ
+kṣa
+kha/khya
+
+Although the sibilants ଶ, ଷ, ସ have their independent orthography, in modern spoken Odia all three of them are pronounced the same as ସ(sa).
+ଵ - This letter is used sporadically for the phonetic Va/Wa as an alternative for the officially recognised letter ୱ, but has not gained widespread acceptance.
+
+Notes[edit]
+
+
+^ Introduced by G.C. Praharaj, while working on the first comprehensive Odia dictionary, Purnachandra Odia Bhasakosha(1931-40)
+
+
+Vowel diacritics[edit]
+The following table shows the list of vowel diacritics on consonants.
+
+
+Vowel diacritics on Consonants
+
+
+
+
+ଅa
+
+ଆā
+
+ଇi
+
+ଈī
+
+ଉu
+
+ଊū
+
+ଋr̥
+
+ୠr̥̄
+
+ଌl̥
+
+ୡl̥̄
+
+ଏe
+
+ଐai
+
+ଓo
+
+ଔau
+
+
+କ୍ k
+
+କ
+
+କା
+
+କି
+
+କୀ
+
+କୁ
+
+କୂ
+
+କୃ
+
+କୄ
+
+କୢ
+
+କୣ
+
+କେ
+
+କୈ
+
+କୋ
+
+କୌ
+
+
+ଖ୍ kh
+
+ଖ
+
+ଖା
+
+ଖି
+
+ଖୀ
+
+ଖୁ
+
+ଖୂ
+
+ଖୃ
+
+ଖୄ
+
+ଖୢ
+
+ଖୣ
+
+ଖେ
+
+ଖୈ
+
+ଖୋ
+
+ଖୌ
+
+
+ଗ୍ g
+
+ଗ
+
+ଗା
+
+ଗି
+
+ଗୀ
+
+ଗୁ
+
+ଗୂ
+
+ଗୃ
+
+ଗୄ
+
+ଗୢ
+
+ଗୣ
+
+ଗେ
+
+ଗୈ
+
+ଗୋ
+
+ଗୌ
+
+
+ଘ୍ gh
+
+ଘ
+
+ଘା
+
+ଘି
+
+ଘୀ
+
+ଘୁ
+
+ଘୂ
+
+ଘୃ
+
+ଘୄ
+
+ଘୢ
+
+ଘୣ
+
+ଘେ
+
+ଘୈ
+
+ଘୋ
+
+ଘୌ
+
+
+ଙ୍ ṅ
+
+ଙ
+
+ଙା
+
+ଙି
+
+ଙୀ
+
+ଙୁ
+
+ଙୂ
+
+ଙୃ
+
+ଙୄ
+
+ଙୢ
+
+ଙୣ
+
+ଙେ
+
+ଙୈ
+
+ଙୋ
+
+ଙୌ
+
+
+ଚ୍ c
+
+ଚ
+
+ଚା
+
+ଚି
+
+ଚୀ
+
+ଚୁ
+
+ଚୂ
+
+ଚୃ
+
+ଚୄ
+
+ଚୢ
+
+ଚୣ
+
+ଚେ
+
+ଚୈ
+
+ଚୋ
+
+ଚୌ
+
+
+ଛ୍ ch
+
+ଛ
+
+ଛା
+
+ଛି
+
+ଛୀ
+
+ଛୁ
+
+ଛୂ
+
+ଛୃ
+
+ଛୄ
+
+ଛୢ
+
+ଛୣ
+
+ଛେ
+
+ଛୈ
+
+ଛୋ
+
+ଛୌ
+
+
+ଜ୍ j
+
+ଜ
+
+ଜା
+
+ଜି
+
+ଜୀ
+
+ଜୁ
+
+ଜୂ
+
+ଜୃ
+
+ଜୄ
+
+ଜୢ
+
+ଜୣ
+
+ଜେ
+
+ଜୈ
+
+ଜୋ
+
+ଜୌ
+
+
+ଝ୍ jh
+
+ଝ
+
+ଝା
+
+ଝି
+
+ଝୀ
+
+ଝୁ
+
+ଝୂ
+
+ଝୃ
+
+ଝୄ
+
+ଝୢ
+
+ଝୣ
+
+ଝେ
+
+ଝୈ
+
+ଝୋ
+
+ଝୌ
+
+
+ଞ୍ ñ
+
+ଞ
+
+ଞା
+
+ଞି
+
+ଞୀ
+
+ଞୁ
+
+ଞୂ
+
+ଞୃ
+
+ଞୄ
+
+ଞୢ
+
+ଞୣ
+
+ଞେ
+
+ଞୈ
+
+ଞୋ
+
+ଞୌ
+
+
+ଟ୍ ṭ
+
+ଟ
+
+ଟା
+
+ଟି
+
+ଟୀ
+
+ଟୁ
+
+ଟୂ
+
+ଟୃ
+
+ଟୄ
+
+ଟୢ
+
+ଟୣ
+
+ଟେ
+
+ଟୈ
+
+ଟୋ
+
+ଟୌ
+
+
+ଠ୍ ṭh
+
+ଠ
+
+ଠା
+
+ଠି
+
+ଠୀ
+
+ଠୁ
+
+ଠୂ
+
+ଠୃ
+
+ଠୄ
+
+ଠୢ
+
+ଠୣ
+
+ଠେ
+
+ଠୈ
+
+ଠୋ
+
+ଠୌ
+
+
+ଡ୍ ḍ
+
+ଡ
+
+ଡା
+
+ଡି
+
+ଡୀ
+
+ଡୁ
+
+ଡୂ
+
+ଡୃ
+
+ଡୄ
+
+ଡୢ
+
+ଡୣ
+
+ଡେ
+
+ଡୈ
+
+ଡୋ
+
+ଡୌ
+
+
+ଢ୍ ḍh
+
+ଢ
+
+ଢା
+
+ଢି
+
+ଢୀ
+
+ଢୁ
+
+ଢୂ
+
+ଢୃ
+
+ଢୄ
+
+ଢୢ
+
+ଢୣ
+
+ଢେ
+
+ଢୈ
+
+ଢୋ
+
+ଢୌ
+
+
+ଣ୍ ṇ
+
+ଣ
+
+ଣା
+
+ଣି
+
+ଣୀ
+
+ଣୁ
+
+ଣୂ
+
+ଣୃ
+
+ଣୄ
+
+ଣୢ
+
+ଣୣ
+
+ଣେ
+
+ଣୈ
+
+ଣୋ
+
+ଣୌ
+
+
+ତ୍ t
+
+ତ
+
+ତା
+
+ତି
+
+ତୀ
+
+ତୁ
+
+ତୂ
+
+ତୃ
+
+ତୄ
+
+ତୢ
+
+ତୣ
+
+ତେ
+
+ତୈ
+
+ତୋ
+
+ତୌ
+
+
+ଥ୍ th
+
+ଥ
+
+ଥା
+
+ଥି
+
+ଥୀ
+
+ଥୁ
+
+ଥୂ
+
+ଥୃ
+
+ଥୄ
+
+ଥୢ
+
+ଥୣ
+
+ଥେ
+
+ଥୈ
+
+ଥୋ
+
+ଥୌ
+
+
+ଦ୍ d
+
+ଦ
+
+ଦା
+
+ଦି
+
+ଦୀ
+
+ଦୁ
+
+ଦୂ
+
+ଦୃ
+
+ଦୄ
+
+ଦୢ
+
+ଦୣ
+
+ଦେ
+
+ଦୈ
+
+ଦୋ
+
+ଦୌ
+
+
+ଧ୍ dh
+
+ଧ
+
+ଧା
+
+ଧି
+
+ଧୀ
+
+ଧୁ
+
+ଧୂ
+
+ଧୃ
+
+ଧୄ
+
+ଧୢ
+
+ଧୣ
+
+ଧେ
+
+ଧୈ
+
+ଧୋ
+
+ଧୌ
+
+
+ନ୍ n
+
+ନ
+
+ନା
+
+ନି
+
+ନୀ
+
+ନୁ
+
+ନୂ
+
+ନୃ
+
+ନୄ
+
+ନୢ
+
+ନୣ
+
+ନେ
+
+ନୈ
+
+ନୋ
+
+ନୌ
+
+
+ପ୍ p
+
+ପ
+
+ପା
+
+ପି
+
+ପୀ
+
+ପୁ
+
+ପୂ
+
+ପୃ
+
+ପୄ
+
+ପୢ
+
+ପୣ
+
+ପେ
+
+ପୈ
+
+ପୋ
+
+ପୌ
+
+
+ଫ୍ ph
+
+ଫ
+
+ଫା
+
+ଫି
+
+ଫୀ
+
+ଫୁ
+
+ଫୂ
+
+ଫୃ
+
+ଫୄ
+
+ଫୢ
+
+ଫୣ
+
+ଫେ
+
+ଫୈ
+
+ଫୋ
+
+ଫୌ
+
+
+ବ୍ b
+
+ବ
+
+ବା
+
+ବି
+
+ବୀ
+
+ବୁ
+
+ବୂ
+
+ବୃ
+
+ବୄ
+
+ବୢ
+
+ବୣ
+
+ବେ
+
+ବୈ
+
+ବୋ
+
+ବୌ
+
+
+ଭ୍ bh
+
+ଭ
+
+ଭା
+
+ଭି
+
+ଭୀ
+
+ଭୁ
+
+ଭୂ
+
+ଭୃ
+
+ଭୄ
+
+ଭୢ
+
+ଭୣ
+
+ଭେ
+
+ଭୈ
+
+ଭୋ
+
+ଭୌ
+
+
+ମ୍ m
+
+ମ
+
+ମା
+
+ମି
+
+ମୀ
+
+ମୁ
+
+ମୂ
+
+ମୃ
+
+ମୄ
+
+ମୢ
+
+ମୣ
+
+ମେ
+
+ମୈ
+
+ମୋ
+
+ମୌ
+
+
+ଯ୍ ẏ(j)
+
+ଯ
+
+ଯା
+
+ଯି
+
+ଯୀ
+
+ଯୁ
+
+ଯୂ
+
+ଯୃ
+
+ଯୄ
+
+ଯୢ
+
+ଯୣ
+
+ଯେ
+
+ଯୈ
+
+ଯୋ
+
+ଯୌ
+
+
+ୟ୍ y
+
+ୟ
+
+ୟା
+
+ୟି
+
+ୟୀ
+
+ୟୁ
+
+ୟୂ
+
+ୟୃ
+
+ୟୄ
+
+ୟୢ
+
+ୟୣ
+
+ୟେ
+
+ୟୈ
+
+ୟୋ
+
+ୟୌ
+
+
+ର୍ r
+
+ର
+
+ରା
+
+ରି
+
+ରୀ
+
+ରୁ
+
+ରୂ
+
+ରୃ
+
+ରୄ
+
+ରୢ
+
+ରୣ
+
+ରେ
+
+ରୈ
+
+ରୋ
+
+ରୌ
+
+
+ଳ୍ ḷ
+
+ଳ
+
+ଳା
+
+ଳି
+
+ଳୀ
+
+ଳୁ
+
+ଳୂ
+
+ଳୃ
+
+ଳୄ
+
+ଳୢ
+
+ଳୣ
+
+ଳେ
+
+ଳୈ
+
+ଳୋ
+
+ଳୌ
+
+
+ଲ୍ l
+
+ଲ
+
+ଲା
+
+ଲି
+
+ଲୀ
+
+ଲୁ
+
+ଲୂ
+
+ଲୃ
+
+ଲୄ
+
+ଲୢ
+
+ଲୣ
+
+ଲେ
+
+ଲୈ
+
+ଲୋ
+
+ଲୌ
+
+
+ୱ୍ w
+
+ୱ
+
+ୱା
+
+ୱି
+
+ୱୀ
+
+ୱୁ
+
+ୱୂ
+
+ୱୃ
+
+ୱୄ
+
+ୱୢ
+
+ୱୣ
+
+ୱେ
+
+ୱୈ
+
+ୱୋ
+
+ୱୌ
+
+
+ଶ୍ ś
+
+ଶ
+
+ଶା
+
+ଶି
+
+ଶୀ
+
+ଶୁ
+
+ଶୂ
+
+ଶୃ
+
+ଶୄ
+
+ଶୢ
+
+ଶୣ
+
+ଶେ
+
+ଶୈ
+
+ଶୋ
+
+ଶୌ
+
+
+ଷ୍ ṣ
+
+ଷ
+
+ଷା
+
+ଷି
+
+ଷୀ
+
+ଷୁ
+
+ଷୂ
+
+ଷୃ
+
+ଷୄ
+
+ଷୢ
+
+ଷୣ
+
+ଷେ
+
+ଷୈ
+
+ଷୋ
+
+ଷୌ
+
+
+ସ୍ s
+
+ସ
+
+ସା
+
+ସି
+
+ସୀ
+
+ସୁ
+
+ସୂ
+
+ସୃ
+
+ସୄ
+
+ସୢ
+
+ସୣ
+
+ସେ
+
+ସୈ
+
+ସୋ
+
+ସୌ
+
+
+ହ୍ h
+
+ହ
+
+ହା
+
+ହି
+
+ହୀ
+
+ହୁ
+
+ହୂ
+
+ହୃ
+
+ହୄ
+
+ହୢ
+
+ହୣ
+
+ହେ
+
+ହୈ
+
+ହୋ
+
+ହୌ
+
+Signs and punctuation[edit]
+ Om symbol [a]
+ Om symbol (joint variant) [b]
+List of diacritic signs and punctuation marks present in languages with Brahmi-derived scripts.[11][15]
+
+
+Signs and punctuation
+
+
+Symbol
+Name
+Function
+RomanizationIPA
+
+
+ଂ
+
+ଅନୁସ୍ୱାରAnusvara
+Nasal Diacritic. E.g.- ଅଂ aṃ, କଂ kaṃ, ହଂସ haṃsaAlso occurs as Final velar nasal [ŋ]. E.g.- ଏବଂ ebaṅ (ebɔŋ)
+ṃ, /ɔ̃/ṅ, /ŋ/
+
+
+ଃ
+
+ବିସର୍ଗVisarga
+Represents post-vocalic voiceless glottal fricative [h].Doubles the next consonant sound without the vowel,"h" sound at end.E.g.- ଅଃ aḥ, କଃ kaḥ, ଦୁଃଖ duḥkha
+ḥ, /hɔ̆/
+
+
+‍ଁ 
+
+ଚନ୍ଦ୍ରବିନ୍ଦୁChandrabindu
+Nasal Diacritic.E.g.- ଅଁ ã, କଁ kã, ନିଆଁ niā̃
+ã, /ɔ̃/
+
+
+‍୍ 
+
+ହଳନ୍ତHalanta
+Suppresses the inherent vowel a[ɔ].E.g.- କ୍ k, ହଠାତ୍ haṭhāt
+-
+
+
+‍଼ 
+
+ବିନ୍ଦୁ (bindu)Nukta
+Dot used below the letter to extend to new alphabets
+-
+
+
+‍। 
+
+ପୂର୍ଣ୍ଣଛେଦPurnachheda
+Full stop
+-
+
+
+‍॥ 
+
+Double Purnachheda
+End of Full Stanza
+-
+
+
+‍ଽ 
+
+ଅବଗ୍ରହAvagraha
+Symbol used to indicate prodelision of ଅ (a) vowel in sandhi and also for prolonging vowel soundsE.g.- ଦ୍ୱିତୀୟୋ‍ଽଧ୍ୟାୟଃ dwitīyo'dhyāyaḥ
+-
+
+
+‍ଓ‍ଁ
+ॐOm
+Om sign
+-
+
+
+‍୰
+ଈଶ୍ୱରIswara
+Symbol written before the name of a deceased person(late)
+-
+
+Consonant ligatures[edit]
+ Consonant ligatures
+Clusters of two or more consonants form a ligature. Basically Odia has two types of such consonant ligatures. The "northern" type is formed by fusion of two or more consonants as in northern scripts like Devanāgarī (but to a lesser extent also in the Malayalam script in the south). In some instances the components can be easily identified, but sometimes completely new glyphs are formed. With the "southern" type the second component is reduced in size and put under the first as in the southern scripts used for Kannaḍa and Telugu (and to some extent also for Malayalam script).
+List of diacritic signs and punctuation marks present in languages with Brahmi-derived scripts.[11]
+
+
+Consonant Ligatures
+
+
+Symbol
+Name
+Function
+RomanizationIPA
+
+
+୍ୟ
+
+ୟ ଫଳାya phaḷā
+Ligature [y] pronounced following a consonant phoneme. E.g.- କ୍ୟ- kya, ସଭ୍ୟ- sabhya
+-ya/-jɔ/
+
+
+୍ର
+
+ର ଫଳାra phaḷā
+Ligature [r] pronounced following a consonant phoneme. E.g.- କ୍ର- kra, ଗ୍ରାମ- grama
+-ra/-ɾɔ/
+
+
+ର୍କ
+
+ରେଫ୍reph
+Ligature [r] pronounced preceding a consonant phoneme. E.g.- ର୍କ- rka, ଗର୍ବ- garba
+r-/ɾ-/
+
+
+୍ଳ
+
+ଳ ଫଳାḷa phaḷā
+Ligature [ḷ] pronounced following a consonant phoneme. E.g- କ୍ଳ- kḷa, ଶୁକ୍ଳ- śukḷa
+-ḷa/-ɭɔ/
+
+
+୍ଲ
+
+ଲ ଫଳାla phaḷā
+Ligature [l] pronounced following a consonant phoneme. E.g.- କ୍ଲ- kla, ପଲ୍ଲବ- pallaba
+-la/-lɔ/
+
+
+୍ୱ
+
+ୱ ଫଳା/ବ ଫଳାwa phaḷā/ba phaḷā
+1. Ligature [w] pronounced following a consonant phoneme. E.g.- କ୍ୱ- kwa, ଦ୍ୱାର- dwāra2. For ମ୍(m) consonant, the ligature takes the form of [b]. E.g.- ମ୍ବ- mba, ଆମ୍ବ= āmba
+-wa, -ba /-wɔ/, /-bɔ/
+
+
+୍ମ
+
+ମ ଫଳାma phaḷā
+Ligature [m] pronounced following a consonant phoneme. E.g.- କ୍ମ- kma, ପଦ୍ମ- padma
+-ma/-mɔ/
+
+
+୍ନ
+
+ନ ଫଳାna phaḷā
+Ligature [n] pronounced following a consonant phoneme. E.g.- କ୍ନ- kna, ପ୍ରଶ୍ନ- praśna
+-na/-nɔ/
+
+The following table lists all conjunct forms. (Different fonts may use different ligatures.)[11]
+
+
+
+Conjunct Consonants ଯୁକ୍ତାକ୍ଷର (yuktākṣara)
+
+
+
+କ
+ଖ
+ଗ
+ଘ
+ଙ
+ଚ
+ଛ
+ଜ
+ଝ
+ଞ
+ଟ
+ଠ
+ଡ
+ଢ
+ଣ
+ତ
+ଥ
+ଦ
+ଧ
+ନ
+ପ
+ଫ
+ବ
+ଭ
+ମ
+ଯ
+ୟ
+ର
+ଲ
+ଳ
+ୱ
+ଶ
+ଷ
+ସ
+ହ
+
+
+କ
+
+କ୍କ
+କ୍ଖ
+କ୍ଗ
+କ୍ଘ
+କ୍ଙ
+କ୍ଚ
+କ୍ଛ
+କ୍ଜ
+କ୍ଝ
+କ୍ଞ
+କ୍ଟ
+କ୍ଠ
+କ୍ଡ
+କ୍ଢ
+କ୍ଣ
+କ୍ତ
+କ୍ଥ
+କ୍ଦ
+କ୍ଧ
+କ୍ନ
+କ୍ପ
+କ୍ଫ
+କ୍ବ
+କ୍ଭ
+କ୍ମ
+କ୍ଯ
+କ୍ୟ
+କ୍ର
+କ୍ଲ
+କ୍ଳ
+କ୍ୱ
+କ୍ଶ
+କ୍ଷ
+କ୍ସ
+କ୍ହ
+
+
+ଖ
+
+ଖ୍କ
+ଖ୍ଖ
+ଖ୍ଗ
+ଖ୍ଘ
+ଖ୍ଙ
+ଖ୍ଚ
+ଖ୍ଛ
+ଖ୍ଜ
+ଖ୍ଝ
+ଖ୍ଞ
+ଖ୍ଟ
+ଖ୍ଠ
+ଖ୍ଡ
+ଖ୍ଢ
+ଖ୍ଣ
+ଖ୍ତ
+ଖ୍ଥ
+ଖ୍ଦ
+ଖ୍ଧ
+ଖ୍ନ
+ଖ୍ପ
+ଖ୍ଫ
+ଖ୍ବ
+ଖ୍ଭ
+ଖ୍ମ
+ଖ୍ଯ
+ଖ୍ୟ
+ଖ୍ର
+ଖ୍ଲ
+ଖ୍ଳ
+ଖ୍ୱ
+ଖ୍ଶ
+ଖ୍ଷ
+ଖ୍ସ
+ଖ୍ହ
+
+
+ଗ
+
+ଗ୍କ
+ଗ୍ଖ
+ଗ୍ଗ
+ଗ୍ଘ
+ଗ୍ଙ
+ଗ୍ଚ
+ଗ୍ଛ
+ଗ୍ଜ
+ଗ୍ଝ
+ଗ୍ଞ
+ଗ୍ଟ
+ଗ୍ଠ
+ଗ୍ଡ
+ଗ୍ଢ
+ଗ୍ଣ
+ଗ୍ତ
+ଗ୍ଥ
+ଗ୍ଦ
+ଗ୍ଧ
+ଗ୍ନ
+ଗ୍ପ
+ଗ୍ଫ
+ଗ୍ବ
+ଗ୍ଭ
+ଗ୍ମ
+ଗ୍ଯ
+ଗ୍ୟ
+ଗ୍ର
+ଗ୍ଲ
+ଗ୍ଳ
+ଗ୍ୱ
+ଗ୍ଶ
+ଗ୍ଷ
+ଗ୍ସ
+ଗ୍ହ
+
+
+ଘ
+
+ଘ୍କ
+ଘ୍ଖ
+ଘ୍ଗ
+ଘ୍ଘ
+ଘ୍ଙ
+ଘ୍ଚ
+ଘ୍ଛ
+ଘ୍ଜ
+ଘ୍ଝ
+ଘ୍ଞ
+ଘ୍ଟ
+ଘ୍ଠ
+ଘ୍ଡ
+ଘ୍ଢ
+ଘ୍ଣ
+ଘ୍ତ
+ଘ୍ଥ
+ଘ୍ଦ
+ଘ୍ଧ
+ଘ୍ନ
+ଘ୍ପ
+ଘ୍ଫ
+ଘ୍ବ
+ଘ୍ଭ
+ଘ୍ମ
+ଘ୍ଯ
+ଘ୍ୟ
+ଘ୍ର
+ଘ୍ଲ
+ଘ୍ଳ
+ଘ୍ୱ
+ଘ୍ଶ
+ଘ୍ଷ
+ଘ୍ସ
+ଘ୍ହ
+
+
+ଙ
+
+ଙ୍କ
+ଙ୍ଖ
+ଙ୍ଗ
+ଙ୍ଘ
+ଙ୍ଙ
+ଙ୍ଚ
+ଙ୍ଛ
+ଙ୍ଜ
+ଙ୍ଝ
+ଙ୍ଞ
+ଙ୍ଟ
+ଙ୍ଠ
+ଙ୍ଡ
+ଙ୍ଢ
+ଙ୍ଣ
+ଙ୍ତ
+ଙ୍ଥ
+ଙ୍ଦ
+ଙ୍ଧ
+ଙ୍ନ
+ଙ୍ପ
+ଙ୍ଫ
+ଙ୍ବ
+ଙ୍ଭ
+ଙ୍ମ
+ଙ୍ଯ
+ଙ୍ୟ
+ଙ୍ର
+ଙ୍ଲ
+ଙ୍ଳ
+ଙ୍ୱ
+ଙ୍ଶ
+ଙ୍ଷ
+ଙ୍ସ
+ଙ୍ହ
+
+
+ଚ
+
+ଚ୍କ
+ଚ୍ଖ
+ଚ୍ଗ
+ଚ୍ଘ
+ଚ୍ଙ
+ଚ୍ଚ
+ଚ୍ଛ
+ଚ୍ଜ
+ଚ୍ଝ
+ଚ୍ଞ
+ଚ୍ଟ
+ଚ୍ଠ
+ଚ୍ଡ
+ଚ୍ଢ
+ଚ୍ଣ
+ଚ୍ତ
+ଚ୍ଥ
+ଚ୍ଦ
+ଚ୍ଧ
+ଚ୍ନ
+ଚ୍ପ
+ଚ୍ଫ
+ଚ୍ବ
+ଚ୍ଭ
+ଚ୍ମ
+ଚ୍ଯ
+ଚ୍ୟ
+ଚ୍ର
+ଚ୍ଲ
+ଚ୍ଳ
+ଚ୍ୱ
+ଚ୍ଶ
+ଚ୍ଷ
+ଚ୍ସ
+ଚ୍ହ
+
+
+ଛ
+
+ଛ୍କ
+ଛ୍ଖ
+ଛ୍ଗ
+ଛ୍ଘ
+ଛ୍ଙ
+ଛ୍ଚ
+ଛ୍ଛ
+ଛ୍ଜ
+ଛ୍ଝ
+ଛ୍ଞ
+ଛ୍ଟ
+ଛ୍ଠ
+ଛ୍ଡ
+ଛ୍ଢ
+ଛ୍ଣ
+ଛ୍ତ
+ଛ୍ଥ
+ଛ୍ଦ
+ଛ୍ଧ
+ଛ୍ନ
+ଛ୍ପ
+ଛ୍ଫ
+ଛ୍ବ
+ଛ୍ଭ
+ଛ୍ମ
+ଛ୍ଯ
+ଛ୍ୟ
+ଛ୍ର
+ଛ୍ଲ
+ଛ୍ଳ
+ଛ୍ୱ
+ଛ୍ଶ
+ଛ୍ଷ
+ଛ୍ସ
+ଛ୍ହ
+
+
+ଜ
+
+ଜ୍କ
+ଜ୍ଖ
+ଜ୍ଗ
+ଜ୍ଘ
+ଜ୍ଙ
+ଜ୍ଚ
+ଜ୍ଛ
+ଜ୍ଜ
+ଜ୍ଝ
+ଜ୍ଞ
+ଜ୍ଟ
+ଜ୍ଠ
+ଜ୍ଡ
+ଜ୍ଢ
+ଜ୍ଣ
+ଜ୍ତ
+ଜ୍ଥ
+ଜ୍ଦ
+ଜ୍ଧ
+ଜ୍ନ
+ଜ୍ପ
+ଜ୍ଫ
+ଜ୍ବ
+ଜ୍ଭ
+ଜ୍ମ
+ଜ୍ଯ
+ଜ୍ୟ
+ଜ୍ର
+ଜ୍ଲ
+ଜ୍ଳ
+ଜ୍ୱ
+ଜ୍ଶ
+ଜ୍ଷ
+ଜ୍ସ
+ଜ୍ହ
+
+
+ଝ
+
+ଝ୍କ
+ଝ୍ଖ
+ଝ୍ଗ
+ଝ୍ଘ
+ଝ୍ଙ
+ଝ୍ଚ
+ଝ୍ଛ
+ଝ୍ଜ
+ଝ୍ଝ
+ଝ୍ଞ
+ଝ୍ଟ
+ଝ୍ଠ
+ଝ୍ଡ
+ଝ୍ଢ
+ଝ୍ଣ
+ଝ୍ତ
+ଝ୍ଥ
+ଝ୍ଦ
+ଝ୍ଧ
+ଝ୍ନ
+ଝ୍ପ
+ଝ୍ଫ
+ଝ୍ବ
+ଝ୍ଭ
+ଝ୍ମ
+ଝ୍ଯ
+ଝ୍ୟ
+ଝ୍ର
+ଝ୍ଲ
+ଝ୍ଳ
+ଝ୍ୱ
+ଝ୍ଶ
+ଝ୍ଷ
+ଝ୍ସ
+ଝ୍ହ
+
+
+ଞ
+
+ଞ୍କ
+ଞ୍ଖ
+ଞ୍ଗ
+ଞ୍ଘ
+ଞ୍ଙ
+ଞ୍ଚ
+ଞ୍ଛ
+ଞ୍ଜ
+ଞ୍ଝ
+ଞ୍ଞ
+ଞ୍ଟ
+ଞ୍ଠ
+ଞ୍ଡ
+ଞ୍ଢ
+ଞ୍ଣ
+ଞ୍ତ
+ଞ୍ଥ
+ଞ୍ଦ
+ଞ୍ଧ
+ଞ୍ନ
+ଞ୍ପ
+ଞ୍ଫ
+ଞ୍ବ
+ଞ୍ଭ
+ଞ୍ମ
+ଞ୍ଯ
+ଞ୍ୟ
+ଞ୍ର
+ଞ୍ଲ
+ଞ୍ଳ
+ଞ୍ୱ
+ଞ୍ଶ
+ଞ୍ଷ
+ଞ୍ସ
+ଞ୍ହ
+
+
+ଟ
+
+ଟ୍କ
+ଟ୍ଖ
+ଟ୍ଗ
+ଟ୍ଘ
+ଟ୍ଙ
+ଟ୍ଚ
+ଟ୍ଛ
+ଟ୍ଜ
+ଟ୍ଝ
+ଟ୍ଞ
+ଟ୍ଟ
+ଟ୍ଠ
+ଟ୍ଡ
+ଟ୍ଢ
+ଟ୍ଣ
+ଟ୍ତ
+ଟ୍ଥ
+ଟ୍ଦ
+ଟ୍ଧ
+ଟ୍ନ
+ଟ୍ପ
+ଟ୍ଫ
+ଟ୍ବ
+ଟ୍ଭ
+ଟ୍ମ
+ଟ୍ଯ
+ଟ୍ୟ
+ଟ୍ର
+ଟ୍ଲ
+ଟ୍ଳ
+ଟ୍ୱ
+ଟ୍ଶ
+ଟ୍ଷ
+ଟ୍ସ
+ଟ୍ହ
+
+
+ଠ
+
+ଠ୍କ
+ଠ୍ଖ
+ଠ୍ଗ
+ଠ୍ଘ
+ଠ୍ଙ
+ଠ୍ଚ
+ଠ୍ଛ
+ଠ୍ଜ
+ଠ୍ଝ
+ଠ୍ଞ
+ଠ୍ଟ
+ଠ୍ଠ
+ଠ୍ଡ
+ଠ୍ଢ
+ଠ୍ଣ
+ଠ୍ତ
+ଠ୍ଥ
+ଠ୍ଦ
+ଠ୍ଧ
+ଠ୍ନ
+ଠ୍ପ
+ଠ୍ଫ
+ଠ୍ବ
+ଠ୍ଭ
+ଠ୍ମ
+ଠ୍ଯ
+ଠ୍ୟ
+ଠ୍ର
+ଠ୍ଲ
+ଠ୍ଳ
+ଠ୍ୱ
+ଠ୍ଶ
+ଠ୍ଷ
+ଠ୍ସ
+ଠ୍ହ
+
+
+ଡ
+
+ଡ୍କ
+ଡ୍ଖ
+ଡ୍ଗ
+ଡ୍ଘ
+ଡ୍ଙ
+ଡ୍ଚ
+ଡ୍ଛ
+ଡ୍ଜ
+ଡ୍ଝ
+ଡ୍ଞ
+ଡ୍ଟ
+ଡ୍ଠ
+ଡ୍ଡ
+ଡ୍ଢ
+ଡ୍ଣ
+ଡ୍ତ
+ଡ୍ଥ
+ଡ୍ଦ
+ଡ୍ଧ
+ଡ୍ନ
+ଡ୍ପ
+ଡ୍ଫ
+ଡ୍ବ
+ଡ୍ଭ
+ଡ୍ମ
+ଡ୍ଯ
+ଡ୍ୟ
+ଡ୍ର
+ଡ୍ଲ
+ଡ୍ଳ
+ଡ୍ୱ
+ଡ୍ଶ
+ଡ୍ଷ
+ଡ୍ସ
+ଡ୍ହ
+
+
+ଢ
+
+ଢ୍କ
+ଢ୍ଖ
+ଢ୍ଗ
+ଢ୍ଘ
+ଢ୍ଙ
+ଢ୍ଚ
+ଢ୍ଛ
+ଢ୍ଜ
+ଢ୍ଝ
+ଢ୍ଞ
+ଢ୍ଟ
+ଢ୍ଠ
+ଢ୍ଡ
+ଢ୍ଢ
+ଢ୍ଣ
+ଢ୍ତ
+ଢ୍ଥ
+ଢ୍ଦ
+ଢ୍ଧ
+ଢ୍ନ
+ଢ୍ପ
+ଢ୍ଫ
+ଢ୍ବ
+ଢ୍ଭ
+ଢ୍ମ
+ଢ୍ଯ
+ଢ୍ୟ
+ଢ୍ର
+ଢ୍ଲ
+ଢ୍ଳ
+ଢ୍ୱ
+ଢ୍ଶ
+ଢ୍ଷ
+ଢ୍ସ
+ଢ୍ହ
+
+
+ଣ
+
+ଣ୍କ
+ଣ୍ଖ
+ଣ୍ଗ
+ଣ୍ଘ
+ଣ୍ଙ
+ଣ୍ଚ
+ଣ୍ଛ
+ଣ୍ଜ
+ଣ୍ଝ
+ଣ୍ଞ
+ଣ୍ଟ
+ଣ୍ଠ
+ଣ୍ଡ
+ଣ୍ଢ
+ଣ୍ଣ
+ଣ୍ତ
+ଣ୍ଥ
+ଣ୍ଦ
+ଣ୍ଧ
+ଣ୍ନ
+ଣ୍ପ
+ଣ୍ଫ
+ଣ୍ବ
+ଣ୍ଭ
+ଣ୍ମ
+ଣ୍ଯ
+ଣ୍ୟ
+ଣ୍ର
+ଣ୍ଲ
+ଣ୍ଳ
+ଣ୍ୱ
+ଣ୍ଶ
+ଣ୍ଷ
+ଣ୍ସ
+ଣ୍ହ
+
+
+ତ
+
+ତ୍କ
+ତ୍ଖ
+ତ୍ଗ
+ତ୍ଘ
+ତ୍ଙ
+ତ୍ଚ
+ତ୍ଛ
+ତ୍ଜ
+ତ୍ଝ
+ତ୍ଞ
+ତ୍ଟ
+ତ୍ଠ
+ତ୍ଡ
+ତ୍ଢ
+ତ୍ଣ
+ତ୍ତ
+ତ୍ଥ
+ତ୍ଦ
+ତ୍ଧ
+ତ୍ନ
+ତ୍ପ
+ତ୍ଫ
+ତ୍ବ
+ତ୍ଭ
+ତ୍ମ
+ତ୍ଯ
+ତ୍ୟ
+ତ୍ର
+ତ୍ଲ
+ତ୍ଳ
+ତ୍ୱ
+ତ୍ଶ
+ତ୍ଷ
+ତ୍ସ
+ତ୍ହ
+
+
+ଥ
+
+ଥ୍କ
+ଥ୍ଖ
+ଥ୍ଗ
+ଥ୍ଘ
+ଥ୍ଙ
+ଥ୍ଚ
+ଥ୍ଛ
+ଥ୍ଜ
+ଥ୍ଝ
+ଥ୍ଞ
+ଥ୍ଟ
+ଥ୍ଠ
+ଥ୍ଡ
+ଥ୍ଢ
+ଥ୍ଣ
+ଥ୍ତ
+ଥ୍ଥ
+ଥ୍ଦ
+ଥ୍ଧ
+ଥ୍ନ
+ଥ୍ପ
+ଥ୍ଫ
+ଥ୍ବ
+ଥ୍ଭ
+ଥ୍ମ
+ଥ୍ଯ
+ଥ୍ୟ
+ଥ୍ର
+ଥ୍ଲ
+ଥ୍ଳ
+ଥ୍ୱ
+ଥ୍ଶ
+ଥ୍ଷ
+ଥ୍ସ
+ଥ୍ହ
+
+
+ଦ
+
+ଦ୍କ
+ଦ୍ଖ
+ଦ୍ଗ
+ଦ୍ଘ
+ଦ୍ଙ
+ଦ୍ଚ
+ଦ୍ଛ
+ଦ୍ଜ
+ଦ୍ଝ
+ଦ୍ଞ
+ଦ୍ଟ
+ଦ୍ଠ
+ଦ୍ଡ
+ଦ୍ଢ
+ଦ୍ଣ
+ଦ୍ତ
+ଦ୍ଥ
+ଦ୍ଦ
+ଦ୍ଧ
+ଦ୍ନ
+ଦ୍ପ
+ଦ୍ଫ
+ଦ୍ବ
+ଦ୍ଭ
+ଦ୍ମ
+ଦ୍ଯ
+ଦ୍ୟ
+ଦ୍ର
+ଦ୍ଲ
+ଦ୍ଳ
+ଦ୍ୱ
+ଦ୍ଶ
+ଦ୍ଷ
+ଦ୍ସ
+ଦ୍ହ
+
+
+ଧ
+
+ଧ୍କ
+ଧ୍ଖ
+ଧ୍ଗ
+ଧ୍ଘ
+ଧ୍ଙ
+ଧ୍ଚ
+ଧ୍ଛ
+ଧ୍ଜ
+ଧ୍ଝ
+ଧ୍ଞ
+ଧ୍ଟ
+ଧ୍ଠ
+ଧ୍ଡ
+ଧ୍ଢ
+ଧ୍ଣ
+ଧ୍ତ
+ଧ୍ଥ
+ଧ୍ଦ
+ଧ୍ଧ
+ଧ୍ନ
+ଧ୍ପ
+ଧ୍ଫ
+ଧ୍ବ
+ଧ୍ଭ
+ଧ୍ମ
+ଧ୍ଯ
+ଧ୍ୟ
+ଧ୍ର
+ଧ୍ଲ
+ଧ୍ଳ
+ଧ୍ୱ
+ଧ୍ଶ
+ଧ୍ଷ
+ଧ୍ସ
+ଧ୍ହ
+
+
+ନ
+
+ନ୍କ
+ନ୍ଖ
+ନ୍ଗ
+ନ୍ଘ
+ନ୍ଙ
+ନ୍ଚ
+ନ୍ଛ
+ନ୍ଜ
+ନ୍ଝ
+ନ୍ଞ
+ନ୍ଟ
+ନ୍ଠ
+ନ୍ଡ
+ନ୍ଢ
+ନ୍ଣ
+ନ୍ତ
+ନ୍ଥ
+ନ୍ଦ
+ନ୍ଧ
+ନ୍ନ
+ନ୍ପ
+ନ୍ଫ
+ନ୍ବ
+ନ୍ଭ
+ନ୍ମ
+ନ୍ଯ
+ନ୍ୟ
+ନ୍ର
+ନ୍ଲ
+ନ୍ଳ
+ନ୍ୱ
+ନ୍ଶ
+ନ୍ଷ
+ନ୍ସ
+ନ୍ହ
+
+
+ପ
+
+ପ୍କ
+ପ୍ଖ
+ପ୍ଗ
+ପ୍ଘ
+ପ୍ଙ
+ପ୍ଚ
+ପ୍ଛ
+ପ୍ଜ
+ପ୍ଝ
+ପ୍ଞ
+ପ୍ଟ
+ପ୍ଠ
+ପ୍ଡ
+ପ୍ଢ
+ପ୍ଣ
+ପ୍ତ
+ପ୍ଥ
+ପ୍ଦ
+ପ୍ଧ
+ପ୍ନ
+ପ୍ପ
+ପ୍ଫ
+ପ୍ବ
+ପ୍ଭ
+ପ୍ମ
+ପ୍ଯ
+ପ୍ୟ
+ପ୍ର
+ପ୍ଲ
+ପ୍ଳ
+ପ୍ୱ
+ପ୍ଶ
+ପ୍ଷ
+ପ୍ସ
+ପ୍ହ
+
+
+ଫ
+
+ଫ୍କ
+ଫ୍ଖ
+ଫ୍ଗ
+ଫ୍ଘ
+ଫ୍ଙ
+ଫ୍ଚ
+ଫ୍ଛ
+ଫ୍ଜ
+ଫ୍ଝ
+ଫ୍ଞ
+ଫ୍ଟ
+ଫ୍ଠ
+ଫ୍ଡ
+ଫ୍ଢ
+ଫ୍ଣ
+ଫ୍ତ
+ଫ୍ଥ
+ଫ୍ଦ
+ଫ୍ଧ
+ଫ୍ନ
+ଫ୍ପ
+ଫ୍ଫ
+ଫ୍ବ
+ଫ୍ଭ
+ଫ୍ମ
+ଫ୍ଯ
+ଫ୍ୟ
+ଫ୍ର
+ଫ୍ଲ
+ଫ୍ଳ
+ଫ୍ୱ
+ଫ୍ଶ
+ଫ୍ଷ
+ଫ୍ସ
+ଫ୍ହ
+
+
+ବ
+
+ବ୍କ
+ବ୍ଖ
+ବ୍ଗ
+ବ୍ଘ
+ବ୍ଙ
+ବ୍ଚ
+ବ୍ଛ
+ବ୍ଜ
+ବ୍ଝ
+ବ୍ଞ
+ବ୍ଟ
+ବ୍ଠ
+ବ୍ଡ
+ବ୍ଢ
+ବ୍ଣ
+ବ୍ତ
+ବ୍ଥ
+ବ୍ଦ
+ବ୍ଧ
+ବ୍ନ
+ବ୍ପ
+ବ୍ଫ
+ବ୍ବ
+ବ୍ଭ
+ବ୍ମ
+ବ୍ଯ
+ବ୍ୟ
+ବ୍ର
+ବ୍ଲ
+ବ୍ଳ
+ବ୍ୱ
+ବ୍ଶ
+ବ୍ଷ
+ବ୍ସ
+ବ୍ହ
+
+
+ଭ
+
+ଭ୍କ
+ଭ୍ଖ
+ଭ୍ଗ
+ଭ୍ଘ
+ଭ୍ଙ
+ଭ୍ଚ
+ଭ୍ଛ
+ଭ୍ଜ
+ଭ୍ଝ
+ଭ୍ଞ
+ଭ୍ଟ
+ଭ୍ଠ
+ଭ୍ଡ
+ଭ୍ଢ
+ଭ୍ଣ
+ଭ୍ତ
+ଭ୍ଥ
+ଭ୍ଦ
+ଭ୍ଧ
+ଭ୍ନ
+ଭ୍ପ
+ଭ୍ଫ
+ଭ୍ବ
+ଭ୍ଭ
+ଭ୍ମ
+ଭ୍ଯ
+ଭ୍ୟ
+ଭ୍ର
+ଭ୍ଲ
+ଭ୍ଳ
+ଭ୍ୱ
+ଭ୍ଶ
+ଭ୍ଷ
+ଭ୍ସ
+ଭ୍ହ
+
+
+ମ
+
+ମ୍କ
+ମ୍ଖ
+ମ୍ଗ
+ମ୍ଘ
+ମ୍ଙ
+ମ୍ଚ
+ମ୍ଛ
+ମ୍ଜ
+ମ୍ଝ
+ମ୍ଞ
+ମ୍ଟ
+ମ୍ଠ
+ମ୍ଡ
+ମ୍ଢ
+ମ୍ଣ
+ମ୍ତ
+ମ୍ଥ
+ମ୍ଦ
+ମ୍ଧ
+ମ୍ନ
+ମ୍ପ
+ମ୍ଫ
+ମ୍ବ
+ମ୍ଭ
+ମ୍ମ
+ମ୍ଯ
+ମ୍ୟ
+ମ୍ର
+ମ୍ଲ
+ମ୍ଳ
+ମ୍ୱ
+ମ୍ଶ
+ମ୍ଷ
+ମ୍ସ
+ମ୍ହ
+
+
+ଯ
+
+ଯ୍କ
+ଯ୍ଖ
+ଯ୍ଗ
+ଯ୍ଘ
+ଯ୍ଙ
+ଯ୍ଚ
+ଯ୍ଛ
+ଯ୍ଜ
+ଯ୍ଝ
+ଯ୍ଞ
+ଯ୍ଟ
+ଯ୍ଠ
+ଯ୍ଡ
+ଯ୍ଢ
+ଯ୍ଣ
+ଯ୍ତ
+ଯ୍ଥ
+ଯ୍ଦ
+ଯ୍ଧ
+ଯ୍ନ
+ଯ୍ପ
+ଯ୍ଫ
+ଯ୍ବ
+ଯ୍ଭ
+ଯ୍ମ
+ଯ୍ଯ
+ଯ୍ୟ
+ଯ୍ର
+ଯ୍ଲ
+ଯ୍ଳ
+ଯ୍ୱ
+ଯ୍ଶ
+ଯ୍ଷ
+ଯ୍ସ
+ଯ୍ହ
+
+
+ୟ
+
+ୟ୍କ
+ୟ୍ଖ
+ୟ୍ଗ
+ୟ୍ଘ
+ୟ୍ଙ
+ୟ୍ଚ
+ୟ୍ଛ
+ୟ୍ଜ
+ୟ୍ଝ
+ୟ୍ଞ
+ୟ୍ଟ
+ୟ୍ଠ
+ୟ୍ଡ
+ୟ୍ଢ
+ୟ୍ଣ
+ୟ୍ତ
+ୟ୍ଥ
+ୟ୍ଦ
+ୟ୍ଧ
+ୟ୍ନ
+ୟ୍ପ
+ୟ୍ଫ
+ୟ୍ବ
+ୟ୍ଭ
+ୟ୍ମ
+ୟ୍ଯ
+ୟ୍ୟ
+ୟ୍ର
+ୟ୍ଲ
+ୟ୍ଳ
+ୟ୍ୱ
+ୟ୍ଶ
+ୟ୍ଷ
+ୟ୍ସ
+ୟ୍ହ
+
+
+ର
+
+ର୍କ
+ର୍ଖ
+ର୍ଗ
+ର୍ଘ
+ର୍ଙ
+ର୍ଚ
+ର୍ଛ
+ର୍ଜ
+ର୍ଝ
+ର୍ଞ
+ର୍ଟ
+ର୍ଠ
+ର୍ଡ
+ର୍ଢ
+ର୍ଣ
+ର୍ତ
+ର୍ଥ
+ର୍ଦ
+ର୍ଧ
+ର୍ନ
+ର୍ପ
+ର୍ଫ
+ର୍ବ
+ର୍ଭ
+ର୍ମ
+ର୍ଯ
+ର୍ୟ
+ର୍ର
+ର୍ଲ
+ର୍ଳ
+ର୍ୱ
+ର୍ଶ
+ର୍ଷ
+ର୍ସ
+ର୍ହ
+
+
+ଲ
+
+ଲ୍କ
+ଲ୍ଖ
+ଲ୍ଗ
+ଲ୍ଘ
+ଲ୍ଙ
+ଲ୍ଚ
+ଲ୍ଛ
+ଲ୍ଜ
+ଲ୍ଝ
+ଲ୍ଞ
+ଲ୍ଟ
+ଲ୍ଠ
+ଲ୍ଡ
+ଲ୍ଢ
+ଲ୍ଣ
+ଲ୍ତ
+ଲ୍ଥ
+ଲ୍ଦ
+ଲ୍ଧ
+ଲ୍ନ
+ଲ୍ପ
+ଲ୍ଫ
+ଲ୍ବ
+ଲ୍ଭ
+ଲ୍ମ
+ଲ୍ଯ
+ଲ୍ୟ
+ଲ୍ର
+ଲ୍ଲ
+ଲ୍ଳ
+ଲ୍ୱ
+ଲ୍ଶ
+ଲ୍ଷ
+ଲ୍ସ
+ଲ୍ହ
+
+
+ଳ
+
+ଳ୍କ
+ଳ୍ଖ
+ଳ୍ଗ
+ଳ୍ଘ
+ଳ୍ଙ
+ଳ୍ଚ
+ଳ୍ଛ
+ଳ୍ଜ
+ଳ୍ଝ
+ଳ୍ଞ
+ଳ୍ଟ
+ଳ୍ଠ
+ଳ୍ଡ
+ଳ୍ଢ
+ଳ୍ଣ
+ଳ୍ତ
+ଳ୍ଥ
+ଳ୍ଦ
+ଳ୍ଧ
+ଳ୍ନ
+ଳ୍ପ
+ଳ୍ଫ
+ଳ୍ବ
+ଳ୍ଭ
+ଳ୍ମ
+ଳ୍ଯ
+ଳ୍ୟ
+ଳ୍ର
+ଳ୍ଲ
+ଳ୍ଳ
+ଳ୍ୱ
+ଳ୍ଶ
+ଳ୍ଷ
+ଳ୍ସ
+ଳ୍ହ
+
+
+ୱ
+
+ୱ୍କ
+ୱ୍ଖ
+ୱ୍ଗ
+ୱ୍ଘ
+ୱ୍ଙ
+ୱ୍ଚ
+ୱ୍ଛ
+ୱ୍ଜ
+ୱ୍ଝ
+ୱ୍ଞ
+ୱ୍ଟ
+ୱ୍ଠ
+ୱ୍ଡ
+ୱ୍ଢ
+ୱ୍ଣ
+ୱ୍ତ
+ୱ୍ଥ
+ୱ୍ଦ
+ୱ୍ଧ
+ୱ୍ନ
+ୱ୍ପ
+ୱ୍ଫ
+ୱ୍ବ
+ୱ୍ଭ
+ୱ୍ମ
+ୱ୍ଯ
+ୱ୍ୟ
+ୱ୍ର
+ୱ୍ଲ
+ୱ୍ଳ
+ୱ୍ୱ
+ୱ୍ଶ
+ୱ୍ଷ
+ୱ୍ସ
+ୱ୍ହ
+
+
+ଶ
+
+ଶ୍କ
+ଶ୍ଖ
+ଶ୍ଗ
+ଶ୍ଘ
+ଶ୍ଙ
+ଶ୍ଚ
+ଶ୍ଛ
+ଶ୍ଜ
+ଶ୍ଝ
+ଶ୍ଞ
+ଶ୍ଟ
+ଶ୍ଠ
+ଶ୍ଡ
+ଶ୍ଢ
+ଶ୍ଣ
+ଶ୍ତ
+ଶ୍ଥ
+ଶ୍ଦ
+ଶ୍ଧ
+ଶ୍ନ
+ଶ୍ପ
+ଶ୍ଫ
+ଶ୍ବ
+ଶ୍ଭ
+ଶ୍ମ
+ଶ୍ଯ
+ଶ୍ୟ
+ଶ୍ର
+ଶ୍ଲ
+ଶ୍ଳ
+ଶ୍ୱ
+ଶ୍ଶ
+ଶ୍ଷ
+ଶ୍ସ
+ଶ୍ହ
+
+
+ଷ
+
+ଷ୍କ
+ଷ୍ଖ
+ଷ୍ଗ
+ଷ୍ଘ
+ଷ୍ଙ
+ଷ୍ଚ
+ଷ୍ଛ
+ଷ୍ଜ
+ଷ୍ଝ
+ଷ୍ଞ
+ଷ୍ଟ
+ଷ୍ଠ
+ଷ୍ଡ
+ଷ୍ଢ
+ଷ୍ଣ
+ଷ୍ତ
+ଷ୍ଥ
+ଷ୍ଦ
+ଷ୍ଧ
+ଷ୍ନ
+ଷ୍ପ
+ଷ୍ଫ
+ଷ୍ବ
+ଷ୍ଭ
+ଷ୍ମ
+ଷ୍ଯ
+ଷ୍ୟ
+ଷ୍ର
+ଷ୍ଲ
+ଷ୍ଳ
+ଷ୍ୱ
+ଷ୍ଶ
+ଷ୍ଷ
+ଷ୍ସ
+ଷ୍ହ
+
+
+ସ
+
+ସ୍କ
+ସ୍ଖ
+ସ୍ଗ
+ସ୍ଘ
+ସ୍ଙ
+ସ୍ଚ
+ସ୍ଛ
+ସ୍ଜ
+ସ୍ଝ
+ସ୍ଞ
+ସ୍ଟ
+ସ୍ଠ
+ସ୍ଡ
+ସ୍ଢ
+ସ୍ଣ
+ସ୍ତ
+ସ୍ଥ
+ସ୍ଦ
+ସ୍ଧ
+ସ୍ନ
+ସ୍ପ
+ସ୍ଫ
+ସ୍ବ
+ସ୍ଭ
+ସ୍ମ
+ସ୍ଯ
+ସ୍ୟ
+ସ୍ର
+ସ୍ଲ
+ସ୍ଳ
+ସ୍ୱ
+ସ୍ଶ
+ସ୍ଷ
+ସ୍ସ
+ସ୍ହ
+
+
+ହ
+
+ହ୍କ
+ହ୍ଖ
+ହ୍ଗ
+ହ୍ଘ
+ହ୍ଙ
+ହ୍ଚ
+ହ୍ଛ
+ହ୍ଜ
+ହ୍ଝ
+ହ୍ଞ
+ହ୍ଟ
+ହ୍ଠ
+ହ୍ଡ
+ହ୍ଢ
+ହ୍ଣ
+ହ୍ତ
+ହ୍ଥ
+ହ୍ଦ
+ହ୍ଧ
+ହ୍ନ
+ହ୍ପ
+ହ୍ଫ
+ହ୍ବ
+ହ୍ଭ
+ହ୍ମ
+ହ୍ଯ
+ହ୍ୟ
+ହ୍ର
+ହ୍ଲ
+ହ୍ଳ
+ହ୍ୱ
+ହ୍ଶ
+ହ୍ଷ
+ହ୍ସ
+ହ୍ହ
+
+
+Ambiguities[edit]
+The subjoined form of ଛ cha is also used for subjoined ଥ tha:
+
+for ଛ cha: ଚ୍ଛ ccha, ଞ୍ଛ ñcha, ଶ୍ଛ ścha
+for ଥ tha: ନ୍ଥ ntha, ସ୍ଥ stha
+The sign for the nasal ଂ ṃ looks similar to the right side of the glyph used for ଫ pha and ଙ ṅa:
+
+ଫ pha (versus ପଂ paṃ)
+ଙ ṅa (versus ଡଂ ḍaṃ or ଉଂ uṃ)
+ମ୍ଫ mpha (versus ମ୍ପଂ mpaṃ)
+Karani script or Odia cursive/calligraphic style[edit]
+Main article: Karani script
+ Karani script sample from Purnachandra Odia Bhashakosha
+Karani script (କରଣୀ ଅକ୍ଷର) (also Chata script ଛଟା ଅକ୍ଷର) was a cursive/calligraphic style variant of the Odia script[16] developed by the Karana (କରଣ) community, the scribes (professional writer-class) of the Odia royal courts. It was used in the pre-Independence Orissa (Odisha) region in South Asia and was primarily used by the Karana community who were working for  administrative purposes, documentation and keeping records in the royal courts of the Odia princely states (Orissa Tributary States). The name Karani is derived from the metal stylus, Karani that was used for writing on palm leaf.[3][17]
+
+Numerals[edit]
+Main article: Odia numerals
+ Development of ancient numerals in Odia
+
+Digits ସଂଖ୍ୟା
+
+
+Hindu-Arabic numerals
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+
+Odia numerals
+
+୦
+
+୧
+
+୨
+
+୩
+
+୪
+
+୫
+
+୬
+
+୭
+
+୮
+
+୯
+
+
+Names
+
+ଶୂନ
+
+ଏକ
+
+ଦୁଇ
+
+ତିନି
+
+ଚାରି
+
+ପାଞ୍ଚ
+
+ଛଅ
+
+ସାତ
+
+ଆଠ
+
+ନଅ
+
+
+IPA
+
+[sunɔ]/[sunjɔ]
+
+[ek]
+
+[dui]
+
+[tini]
+
+[tʃaɾi]
+
+[pantʃ]
+
+[tʃʰɔː]
+
+[satɔ]
+
+[aʈʰɔ]
+
+[nɔː]
+
+
+Fraction symbols ଭଗ୍ନାଂଶ ଚିହ୍ନ
+
+
+Fraction symbols
+
+୵
+
+୶
+
+୷
+
+୲
+
+୳
+
+୴
+
+
+Fractions
+
+¹⁄₁₆
+
+⅛
+
+³⁄₁₆
+
+¼
+
+½
+
+¾
+
+Fraction symbols are obsolete post decimalisation on 1 April 1957.
+
+Comparison of Odia script with ancestral and related scripts[edit]
+Odia letters are mostly round shaped whereas Devanagari and Bengali have horizontal lines. So in most cases the reader of Odia will find the related distinctive parts of the letter only below the curved hoop.
+
+Vowels[edit]
+
+
+
+
+
+
+a
+
+ā
+
+i
+
+ī
+
+u
+
+ū
+
+ṛ
+
+ṝ
+
+ḷ
+
+ḹ
+
+e
+
+ai
+
+o
+
+au
+
+
+Odia
+
+ଅ
+
+ଆ
+
+ଇ
+
+ଈ
+
+ଉ
+
+ଊ
+
+ଋ
+
+ୠ
+
+ଌ
+
+ୡ
+
+ଏ
+
+ଐ
+
+ଓ
+
+ଔ
+
+
+Bengali
+
+অ
+
+আ
+
+ই
+
+ঈ
+
+উ
+
+ঊ
+
+ঋ
+
+ৠ
+
+ঌ
+
+ৡ
+
+এ
+
+ঐ
+
+ও
+
+ঔ
+
+
+Siddham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devanagari
+
+अ
+
+आ
+
+इ
+
+ई
+
+उ
+
+ऊ
+
+ऋ
+
+ॠ
+
+ऌ
+
+ॡ
+
+ए
+
+ऐ
+
+ओ
+
+औ
+
+Consonants[edit]
+
+
+
+
+
+
+k
+
+kh
+
+g
+
+gh
+
+ṅ
+
+c
+
+ch
+
+j
+
+jh
+
+ñ
+
+ṭ
+
+ṭh
+
+ḍ
+
+ḍh
+
+ṇ
+
+t
+
+th
+
+d
+
+dh
+
+n
+
+p
+
+ph
+
+b
+
+bh
+
+m
+
+ẏ,y
+
+r
+
+l,ḷ
+
+w
+
+ś
+
+ṣ
+
+s
+
+h
+
+
+Odia
+
+କ
+
+ଖ
+
+ଗ
+
+ଘ
+
+ଙ
+
+ଚ
+
+ଛ
+
+ଜ
+
+ଝ
+
+ଞ
+
+ଟ
+
+ଠ
+
+ଡ
+
+ଢ
+
+ଣ
+
+ତ
+
+ଥ
+
+ଦ
+
+ଧ
+
+ନ
+
+ପ
+
+ଫ
+
+ବ
+
+ଭ
+
+ମ
+
+ଯ,ୟ
+
+ର
+
+ଲ,ଳ
+
+ୱ
+
+ଶ
+
+ଷ
+
+ସ
+
+ହ
+
+
+Bengali
+
+ক
+
+খ
+
+গ
+
+ঘ
+
+ঙ
+
+চ
+
+ছ
+
+জ
+
+ঝ
+
+ঞ
+
+ট
+
+ঠ
+
+ড
+
+ঢ
+
+ণ
+
+ত
+
+থ
+
+দ
+
+ধ
+
+ন
+
+প
+
+ফ
+
+ব
+
+ভ
+
+ম
+
+য,য়
+
+র
+
+ল
+
+-
+
+শ
+
+ষ
+
+স
+
+হ
+
+
+Siddham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Devanagari
+
+क
+
+ख
+
+ग
+
+घ
+
+ङ
+
+च
+
+छ
+
+ज
+
+झ
+
+ञ
+
+ट
+
+ठ
+
+ड
+
+ढ
+
+ण
+
+त
+
+थ
+
+द
+
+ध
+
+न
+
+प
+
+फ
+
+ब
+
+भ
+
+म
+
+य
+
+र
+
+ल,ळ
+
+व
+
+श
+
+ष
+
+स
+
+ह
+
+Vowel diacritics[edit]
+
+
+
+
+
+
+ka
+
+kā
+
+ki
+
+kī
+
+ku
+
+kū
+
+kṛ
+
+kṝ
+
+kḷ
+
+kḹ
+
+ke
+
+kai
+
+ko
+
+kau
+
+
+Odia
+
+କ
+
+କା
+
+କି
+
+କୀ
+
+କୁ
+
+କୂ
+
+କୃ
+
+କୄ
+
+କୢ
+
+କୣ
+
+କେ
+
+କୈ
+
+କୋ
+
+କୌ
+
+
+Bengali
+
+ক
+
+কা
+
+কি
+
+কী
+
+কু
+
+কূ
+
+কৃ
+
+কৄ
+
+কৢ
+
+কৣ
+
+কে
+
+কৈ
+
+কো
+
+কৌ
+
+
+Devanagari
+
+क
+
+का
+
+कि
+
+की
+
+कु
+
+कू
+
+कृ
+
+कॄ
+
+कॢ
+
+कॣ
+
+के
+
+कै
+
+को
+
+कौ
+
+The vowel diacritics observed in Odia is similar to that of Bengali-Assamese as inherited from the Siddham pristhmatra style, differing from the diacritic symbols inherited by the scripts related to Devanagari line.
+
+Sample text[edit]
+Universal Declaration of Human Rights[edit]
+The following is a sample text in Odia of Article 1 of the Universal Declaration of Human Rights (ମାନବିକ ଅଧିକାରର ସାର୍ବଜନୀନ ଘୋଷଣା):
+Odia in the Odia script
+
+ଅନୁଚ୍ଛେଦ ୧: ସମସ୍ତ ମନୁଷ୍ୟ ଜନ୍ମକାଳରୁ ସ୍ୱାଧୀନ ଏବଂ ମର୍ଯ୍ୟାଦା ଓ ଅଧିକାରରେ ସମାନ । ସେମାନଙ୍କଠାରେ ବୁଦ୍ଧି ଆଉ ବିବେକ ନିହିତ ଅଛି ଏବଂ ସେମାନଙ୍କୁ ପରସ୍ପର ପ୍ରତି ଭ୍ରାତୃତ୍ୱ ମନୋଭାବରେ ବ୍ୟବହାର କରିବା ଉଚିତ୍ ।
+Odia in ISO 15919
+
+Anucchēda 1: Samasta manuṣya janmakāḷaru swādhīna ēbaṁ maryẏādā o adhikārarē samāna. Sēmānaṅkaṭhārē buddhi o bibēka nihita achi ēbaṁ sēmānaṅku paraspara prati bhrātr̥twa manōbhābarē bẏabahāra karibā ucit.
+Odia in the IPA
+
+ɔnut͡ːʃʰed̪ɔ ekɔ: sɔmɔst̪ɔ mɔnuʂjɔ d͡ʒɔnmɔkaɭɔɾu swad̪ʱinɔ ebɔŋ mɔɾd͡ʒjaːd̪a o ɔd̪ʱikaɾɔɾe sɔmanɔ. seman̪ɔŋkɔʈʰaɾe bud̪ːʱi o bibekɔ n̪iɦit̪ɔ ɔt͡ʃʰi ebɔŋ semanɔŋku pɔɾɔspɔɾɔ pɾɔt̪i bʱɾat̪ɾut̪wɔ mɔnobʱabɔɾe bjɔbɔɦaɾɔ kɔɾiba ut͡ʃit̪
+Gloss
+
+Article 1: All human beings from birth are free and dignity and rights are equal. Their reason and intelligence endowed with and they towards one another in a brotherhood spirit behaviour to do should.
+Translation
+
+Article 1:  All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+Unicode[edit]
+Main article: Oriya (Unicode block)
+Odia script was added to the Unicode Standard in October 1991 with the release of version 1.0.
+The Unicode block for Odia is U+0B00–U+0B7F:
+
+
+
+Oriya[1][2]Official Unicode Consortium code chart (PDF)
+
+
+ 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+
+
+U+0B0x
+
+
+
+ଁ
+
+ଂ
+
+ଃ
+
+
+
+ଅ
+
+ଆ
+
+ଇ
+
+ଈ
+
+ଉ
+
+ଊ
+
+ଋ
+
+ଌ
+
+
+
+
+
+ଏ
+
+
+U+0B1x
+
+ଐ
+
+
+
+
+
+ଓ
+
+ଔ
+
+କ
+
+ଖ
+
+ଗ
+
+ଘ
+
+ଙ
+
+ଚ
+
+ଛ
+
+ଜ
+
+ଝ
+
+ଞ
+
+ଟ
+
+
+U+0B2x
+
+ଠ
+
+ଡ
+
+ଢ
+
+ଣ
+
+ତ
+
+ଥ
+
+ଦ
+
+ଧ
+
+ନ
+
+
+
+ପ
+
+ଫ
+
+ବ
+
+ଭ
+
+ମ
+
+ଯ
+
+
+U+0B3x
+
+ର
+
+
+
+ଲ
+
+ଳ
+
+
+
+ଵ
+
+ଶ
+
+ଷ
+
+ସ
+
+ହ
+
+
+
+
+
+଼
+
+ଽ
+
+ା
+
+ି
+
+
+U+0B4x
+
+ୀ
+
+ୁ
+
+ୂ
+
+ୃ
+
+ୄ
+
+
+
+
+
+େ
+
+ୈ
+
+
+
+
+
+ୋ
+
+ୌ
+
+୍
+
+
+
+
+
+
+U+0B5x
+
+
+
+
+
+
+
+
+
+
+
+୕
+
+ୖ
+
+ୗ
+
+
+
+
+
+
+
+
+
+ଡ଼
+
+ଢ଼
+
+
+
+ୟ
+
+
+U+0B6x
+
+ୠ
+
+ୡ
+
+ୢ
+
+ୣ
+
+
+
+
+
+୦
+
+୧
+
+୨
+
+୩
+
+୪
+
+୫
+
+୬
+
+୭
+
+୮
+
+୯
+
+
+U+0B7x
+
+୰
+
+ୱ
+
+୲
+
+୳
+
+୴
+
+୵
+
+୶
+
+୷
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes
+1.^ As of Unicode version 15.0
+2.^ Grey areas indicate non-assigned code points
+
+Gallery[edit]
+
+
+
+
+Palm leaf manuscript written in Odia language
+
+
+
+
+
+
+Palm leaf manuscript written in Odia language
+
+
+
+
+
+
+Palm leaf-jatak manuscript
+
+
+
+
+
+
+Jataka or Horoscope
+
+
+
+
+
+
+Palm leaf manuscript of Draupadi Lakhabindha in Odia
+
+
+
+
+
+
+14th-century Adhyatma Ramayana manuscript written in Sanskrit, Odia script
+
+
+
+
+
+
+Dahuka boli
+
+
+
+
+
+
+Guru Gita, Skanda Purana, Sanskrit, Odia script
+
+
+
+
+
+
+Odia manuscript
+
+
+
+
+
+
+Odia manuscript
+
+
+
+
+
+
+Odia manuscript
+
+
+
+
+
+
+Odia calligraphy
+
+
+
+
+
+
+Barnabodha by Madhusudan Rao,1896
+
+
+
+
+Notes[edit]
+
+
+
+
+^ ଓଁ (U+0B13 & U+0B01)
+
+^ ଓ‍ଁ (U+0B13 & U+200D & U+0B01)
+
+
+See also[edit]
+Karani script
+Odia Braille
+References[edit]
+
+
+^ Salomon, Richard (1998). Indian Epigraphy. Oxford University Press. p. 41. ISBN 978-0-19-535666-3.
+
+^ a b c McBride, Catherine; Joshi, R. Malatesha (2019). Handbook of Literacy in Akshara Orthography. Springer. p. 27. ISBN 9783030059774.
+
+^ a b c d Rath, Saraju (2012). "The Oriya Script: Origin, Development and Sources". {{cite journal}}: Cite journal requires |journal= (help)
+
+^ a b Cardona, George; Jain, Dhanesh (2003). The Indo-Aryan Languages. Routledge language family series. London: Routledge. p. 487. ISBN 0-7007-1130-9.
+
+^ a b Salomon, Richard (1998). Indian Epigraphy. p. 101.
+
+^ Masica, Colin (1993). The Indo-Aryan languages. Cambridge University Press. p. 143. ISBN 9780521299442.
+
+^ Linguistic Society of India (2014). Indian Linguistics (in Estonian). Linguistic Society of India. p. 96. Retrieved 27 March 2020.
+
+^ Tripāṭhī, Kunjabihari (1962). The Evolution of Oriya Language and Script. Utkal University. Retrieved 27 March 2020.
+
+^ "Odia alphabet, pronunciation and language". Omniglot.com. Retrieved 14 June 2012.
+
+^ "LSI Vol-6". dsal. p. 33.
+
+^ a b c d "Chabila Madhu Barnobodha".
+
+^ "Purnachandra Odia Bhasakosha". The Utkal Sahitya Press, Cuttack. p. 725.
+
+^ "Praharaj, Purnachandra Odia Bhasakosha". dsal.
+
+^ "Purnachandra Odia Bhasakosha". Srujanika.
+
+^ Oriya(Odia) (PDF), Unicode
+
+^ Chitararijan Behera (2012). "ପ୍ରାଚୀନ ସାହିତ୍ୟଗ୍ରନ୍ଥ ସଂପାଦନା-୧" (PDF). Shodhganga. Utkal University. Retrieved 25 December 2020.
+
+^ "CHAPTER - IV: DEVELOPMENT OF ORIYA SCRIPT, LANGUAGE AND LITERATURE" (PDF). Shodhganga. 27 September 2016. Retrieved 30 September 2020.
+
+
+External links[edit]
+The Unicode Standard: Chapter 9 – South and Southeast Asian Scripts (PDF)
+Odia alphabet – From Omniglot
+vteOdia languageLanguage
+Grammar
+Dialects/VarietiesRegional
+Baleswari
+Kataki
+Ganjami
+Sundargadi
+Sambalpuri
+Desia
+Minor
+Kalahandia
+Phulbani
+Singhbhumi
+Sociolects
+Bodo Parja
+Bhatri
+Reli
+Kupia
+Scripts
+Odia
+Karani
+Kalinga
+Numerals
+Odia Braille
+Literature
+Literature
+Chautisa
+Writers
+Literary awards
+Sahitya Akademi Award
+Sahitya Akademi Translation Prize
+Yuva Puraskar
+Odisha Sahitya Akademi
+Odisha Sahitya Akademi Award
+Atibadi Jagannath Das Award
+Culture
+Odissi music
+Odia calendar
+
+vte State of OdishaCapital: BhubaneswarState symbols
+Emblem: Emblem of Odisha
+Song: Bande Utkala Janani
+Animal: Sambar
+Bird: Indian roller
+Flower: Ashoka
+Tree: Sacred fig
+Fish: Mahanadi mahseer
+Governance
+Governors
+Chief ministers
+Legislative Assembly
+Constituencies
+High Court
+Police
+Elections
+Politics
+Human Rights Commission
+History
+Kalinga
+Rulers
+Mahameghavahana dynasty
+Murunda dynasty
+Nala dynasty
+Mathara dynasty
+Pitrbhakta dynasty
+Shailodbhava dynasty
+Bhauma-Kara dynasty
+Bhanja dynasty
+Somavamshi dynasty
+Eastern Ganga dynasty
+Gajapati Empire
+Bhoi dynasty
+Orissa Tributary States
+Utkal Sammilani
+Historic sites
+Maritime history of Odisha
+Geography
+Flora and Fauna
+Forests
+Utkal Plains
+Garhjat Hills
+Chilika Lake
+Deomali (Highest point)
+Abdul Kalam Island
+DistrictsbydivisionNorthern
+Angul
+Balangir
+Bargarh
+Debagarh
+Dhenkanal
+Jharsuguda
+Kendujhar
+Sambalpur
+Subarnapur
+Sundergarh
+Central
+Balasore
+Bhadrak
+Cuttack
+Jagatsinghpur
+Jajpur
+Kendrapara
+Khordha
+Mayurbhanj
+Nayagarh
+Puri
+Southern
+Boudh
+Gajapati
+Ganjam
+Kalahandi
+Kandhamal
+Koraput
+Malkangiri
+Nabrangpur
+Nuapada
+Rayagada
+Cities
+Angul
+Balangir
+Balasore
+Barbil
+Bargarh
+Baripada
+Bhadrak
+Bhawanipatna
+Bhubaneswar
+Berhampur
+Cuttack
+Dhenkanal
+Jajpur
+Jharsuguda
+Jeypore
+Joda
+Kendrapara
+Kendujhar
+Khordha
+Paradeep
+Puri
+Rourkela
+Sambalpur
+Talcher
+GI products
+Berhampur Patta
+Bomkai sari
+Dhalapathar Parda & Fabrics
+Ganjam Kewda Flower
+Ganjam Kewda Rooh
+Gopalpur Tussar Fabrics
+Habaspuri sari
+Khandua
+Konark stone carving
+Kotpad Handloom fabrics
+Odisha Ikat
+Pattachitra
+Pipili appliqué work
+Odisha Rasagola
+Sambalpuri sari
+Topics
+Arts
+Cinema
+Cuisine
+Culture
+Day
+Economy
+Education
+Festivals
+Language
+Act
+Script
+Literature
+Grammar
+People
+Tribes
+Sports
+Tourism
+ India portal
+vteTypes of writing systemsOverview
+History of writing
+Grapheme
+Hieroglyph
+Lists
+Writing systems
+undeciphered
+inventors
+constructed
+Languages by writing system / by first written accounts
+TypesAbjads
+Numerals
+Aramaic
+Hatran
+Arabic
+Elifba
+Egyptian hieroglyphs
+Elymaic
+Hebrew
+Ashuri
+Cursive
+Rashi
+Solitreo
+Tifinagh
+Mandaic
+Manichaean
+Nabataean
+Old North Arabian
+Pahlavi
+Book
+Inscriptional
+Inscriptional Parthian
+Psalter
+Pegon
+Phoenician
+Paleo-Hebrew
+Pitman shorthand
+Proto-Sinaitic
+Punic
+Samaritan
+South Arabian
+Zabur
+Musnad
+Sogdian
+Syriac
+ʾEsṭrangēlā
+Serṭā
+Maḏnḥāyā
+Teeline Shorthand
+Ugaritic
+AbugidasBrahmicNorthern
+Bengali–Assamese
+Bhaiksuki
+Brāhmī
+Devanāgarī
+Dogri
+Gujarati
+Gupta
+Gurmukhī
+Kaithi
+Kalinga
+Khema
+Khojki
+Khudabadi
+Laṇḍā
+Lepcha
+Mahajani
+Marchen
+Meitei
+Modi
+Multani
+Nagari
+Nandinagari
+Nepalese scripts
+Bhujimol
+Golmol
+Himmol
+Kummol
+Kvemmol
+Pachumol
+Pracalit (Newar)
+Ranjana
+Tamyig
+Tirhuta
+Limbu
+Litumol
+Odia
+Karani
+ʼPhags-pa
+Sharada
+Siddhaṃ
+Soyombo
+Sylheti Nagri
+Takri
+Tibetan
+Uchen
+Umê
+Tocharian
+Zanabazar Square
+Southern
+Ahom
+Balinese
+Batak
+Baybayin
+Bhattiprolu
+Buda
+Buhid
+Chakma
+Cham
+Fakkham
+Grantha
+Goykanadi
+Hanunuo (Hanunó'o)
+Javanese
+Kadamba
+Kannada
+Karen
+Kawi
+Khmer
+Khom Thai
+Kulitan
+Lanna
+Langdi
+Lao
+Leke
+Lampung
+Lontara
+Bilang-bilang
+Makasar
+Malayalam
+Old Maldivian
+Dhives Akuru
+Eveyla Akuru
+Mon–Burmese
+Pallava
+Pyu
+Rejang
+Rencong
+Saurashtra
+Shan
+Sinhala
+Sukhothai
+Sundanese
+Old Sundanese
+Tagbanwa
+Tai Le
+New Tai Lue
+Tai Noi
+Tai Tham
+Tai Viet
+Lai Tay
+Tamil
+Tamil-Brahmi
+Tanchangya
+Telugu
+Thai
+Tigalari
+Vatteluttu
+Kolezhuthu
+Malayanma
+Others
+Boyd's syllabic shorthand
+Canadian syllabics
+Blackfoot
+Déné syllabics
+Dham
+Fox I
+Geʽez
+Gunjala Gondi
+Japanese Braille
+Sarati
+Jenticha
+Kharosthi
+Mandombe
+Masaram Gondi
+Meroitic
+Miao
+Mwangwego
+Pahawh Hmong
+Sorang Sompeng
+Tengwar
+Thaana
+Thomas Natural Shorthand
+Warang Citi
+Mwangwego
+Rma
+AlphabetsLinear
+Adlam
+Ariyaka
+Armenian
+Avestan
+Pazend
+Avoiuli
+Bassa Vah
+Borama
+Carian
+Caucasian Albanian
+Cirth
+Coelbren
+Coorgi–Cox alphabet
+Coptic
+Cyrillic
+Bosnian
+Early
+Deseret
+Duployan shorthand
+Chinook writing
+Eclectic shorthand
+Elbasan
+Enochian
+Etruscan
+Evenki
+Formosan
+Fox II
+Fraser
+Gabelsberger shorthand
+Garay
+Georgian
+Asomtavruli
+Nuskhuri
+Mkhedruli
+Gjirokastër
+Glagolitic
+Gothic
+Gregg shorthand
+Greek (archaic forms)
+Greco-Iberian alphabet
+Hangul
+Hanifi
+Jenticha
+Kaddare
+Kayah Li
+Klingon
+Latin
+Beneventan
+Blackletter
+Carolingian minuscule
+Fraktur
+Gaelic
+Insular
+Interlac
+IPA
+Kurrent
+Merovingian
+Sigla
+Sütterlin
+Tironian notes
+Visigothic
+Luo
+Lycian
+Lydian
+Manchu
+Medefaidrin
+Molodtsov
+Mongolian
+Mru
+Mundari Bani
+Neo-Tifinagh
+N'Ko
+Ogham
+Oirat
+Ol Chiki
+Old Hungarian
+Old Italic
+Old Permic
+Orkhon
+Old Uyghur
+Ol Onal
+Osage
+Osmanya
+Pau Cin Hau
+Runic
+Anglo-Saxon
+Cipher
+Dalecarlian
+Elder Futhark
+Younger Futhark
+Gothic
+Marcomannic
+Medieval
+Staveless
+Shavian
+Sidetic
+Sorang Sompeng
+Sunuwar
+Tifinagh
+Todhri
+Tolong Siki
+Vagindra
+Vellara
+Visible Speech
+Vithkuqi
+Wancho
+Warang Citi
+Yezidi
+Zaghawa
+Non-linear
+Braille
+Maritime flags
+Telegraph code
+New York Point
+Flag semaphore
+Moon type
+Ideograms and pictograms
+Adinkra
+Aztec
+Blissymbol
+Dongba
+Ersu Shaba
+Emoji
+IConji
+Isotype
+Kaidā
+Miꞌkmaw
+Mixtec
+New Epoch Notation Painting
+Nsibidi
+Ojibwe Hieroglyphs
+Olmec
+Siglas poveiras
+Testerian
+Yerkish
+Zapotec
+LogogramsChinese family of scriptsChinese Characters
+Simplified
+Traditional
+Oracle bone script
+Bronze Script
+Seal Script
+large
+small
+bird-worm
+Hanja
+Idu
+Kanji
+Chữ Nôm
+Zhuang
+Chinese-influenced
+Jurchen
+Khitan large script
+Sui
+Tangut
+Cuneiform
+Akkadian
+Assyrian
+Elamite
+Hittite
+Luwian
+Sumerian
+Other logo-syllabic
+Anatolian
+Bagam
+Cretan
+Isthmian
+Maya
+Proto-Elamite
+Yi (Classical)
+Logo-consonantal
+Demotic
+Hieratic
+Hieroglyphs
+Numerals
+Hindu-Arabic
+Abjad
+Attic (Greek)
+Muisca
+Roman
+Semi-syllabariesFull
+Linear Elamite
+Celtiberian
+Northeastern Iberian
+Southeastern Iberian
+Khom
+Dunging
+Redundant
+Espanca
+Pahawh Hmong
+Khitan small script
+Southwest Paleohispanic
+Zhuyin fuhao
+Quốc Âm Tân Tự
+Sign languages
+ASLwrite
+SignWriting
+si5s
+Stokoe Notation
+Syllabaries
+Afaka
+Bamum
+Bété
+Byblos
+Canadian Aboriginal
+Cherokee
+Cypriot
+Cypro-Minoan
+Ditema tsa Dinoko
+Eskayan
+Geba
+Great Lakes Algonquian
+Iban
+Idu
+Japanese
+Hiragana
+Katakana
+Man'yōgana
+Hentaigana
+Sōgana
+Jindai moji
+Kikakui
+Kpelle
+Linear B
+Linear Elamite
+Lisu
+Loma
+Nüshu
+Nwagu Aneke script
+Old Persian Cuneiform
+Sumerian
+Vai
+Woleai
+Yi (Modern)
+Yugtun
+vteBraille ⠃⠗⠁⠊⠇⠇⠑Braille cell
+1829 braille
+International uniformity
+ASCII braille
+Unicode braille patterns
+Braille scriptsFrench-ordered
+Albanian
+Azerbaijani
+Cantonese
+Catalan
+Chinese (mainland Mandarin) (largely reassigned)
+Czech
+Dutch
+English (Unified English)
+Esperanto
+French
+German
+Ghanaian
+Guarani
+Hawaiian
+Hungarian
+Iñupiaq
+IPA
+Irish
+Italian
+Latvian
+Lithuanian
+Luxembourgish (extended to 8-dot)
+Maltese
+Māori
+Navajo
+Nigerian
+Philippine
+Polish
+Portuguese
+Romanian
+Samoan
+Slovak
+South African
+Spanish
+Taiwanese Mandarin (largely reassigned)
+Turkish
+Vietnamese
+Welsh
+Yugoslav
+Zambian
+Nordic family
+Estonian
+Faroese
+Icelandic
+Northern Sami
+Scandinavian
+Danish
+Finnish
+Greenlandic
+Norwegian
+Swedish
+Russian lineage familyi.e. Cyrillic-mediated scripts
+Belarusian
+Bulgarian
+Kazakh
+Kyrgyz
+Mongolian
+Russian
+Tatar
+Ukrainian
+Egyptian lineage familyi.e. Arabic-mediated scripts
+Arabic
+Persian
+Urdu (Pakistan)
+Indian lineage familyi.e. Bharati Braille
+Devanagari (Hindi / Marathi / Nepali)
+Bengali (Bangla / Assamese)
+Gujarati
+Kannada
+Malayalam
+Odia
+Punjabi
+Sinhala
+Tamil
+Telugu
+Urdu (India)
+Other scripts
+Amharic
+Armenian
+Burmese
+Dzongkha (Bhutanese)
+Georgian
+Greek
+Hebrew
+Inuktitut (reassigned vowels)
+Khmer
+Thai and Lao (Japanese vowels)
+Tibetan
+
+Reordered
+Algerian Braille (obsolete)
+Frequency-based
+American Braille (obsolete)
+Independent
+Chinese semi-syllabaries
+Cantonese
+Mainland Chinese Mandarin
+Taiwanese Mandarin
+Two-cell Chinese (Shuangpin)
+Japanese
+Korean
+Eight-dot
+Luxembourgish
+Kanji
+Gardner–Salinas braille codes (GS8)
+Symbols in braille
+Braille music
+Canadian currency marks
+Computer Braille Code
+Gardner–Salinas braille codes (science; GS8/GS6)
+International Phonetic Alphabet (IPA)
+Nemeth braille code
+Braille technology
+Braille e-book
+Braille embosser
+Braille translator
+Braille watch
+Mountbatten Brailler
+Optical braille recognition
+Perforation
+Perkins Brailler
+Refreshable braille display
+Slate and stylus
+Braigo
+People
+Louis Braille
+Charles Barbier
+Róża Czacka
+Valentin Haüy
+Harris Mowbray
+Thakur Vishva Narain Singh
+Sabriye Tenberken
+William Bell Wait
+Organisations
+Braille Institute of America
+Braille Without Borders
+Japan Braille Library
+National Braille Association
+Blindness organizations
+Schools for the blind
+American Printing House for the Blind
+Other tactile alphabets
+Decapoint
+Moon type
+New York Point
+Night writing
+Vibratese
+Related topics
+Accessible publishing
+Braille literacy
+RoboBraille
+vteElectronic writing systems
+Emoticons
+Emoji
+Kaomoji
+iConji
+Unicode
+vteInternet slang variants
+3arabizi
+Alay (Indonesia)
+Denglisch
+Doge
+DoggoLingo
+Fingilish (Persian)
+Greeklish
+Gyaru-moji (Japan)
+Jejemon (Philippines)
+Leet ("1337")
+Lolspeak / LOLspeak / Kitteh
+Martian language (Chinese)
+Miguxês (Portuguese)
+Padonkaffsky jargon (Russian)
+Pseudo-Chinese
+SMS language (used in phones)
+Translit
+Volapuk
+Yaminjeongeum (Korean)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Odia_script&oldid=1151443581"
+Categories: Odia cultureOdia languageBrahmic scriptsLinguistic history of IndiaOfficially used writing systems of IndiaHidden categories: CS1 errors: missing periodicalCS1 Estonian-language sources (et)Articles with short descriptionShort description is different from WikidataUse dmy dates from April 2019Use Indian English from January 2019All Wikipedia articles written in Indian EnglishArticles containing Odia-language textScripts with ISO 15924 four-letter codesArticles with hAudio microformatsArticles containing Bengali-language textArticles containing Dhivehi-language textArticles containing video clips
+
+
+
+
+
+
+ This page was last edited on 24 April 2023, at 02:50 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+

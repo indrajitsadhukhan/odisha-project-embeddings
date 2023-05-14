@@ -1,0 +1,1981 @@
+
+
+
+
+Odia grammar - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+		Contribute
+	
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+Languages
+
+Language links are at the top of the page across from the title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Personal tools
+
+
+
+
+ Create account Log in
+
+
+
+
+		Pages for logged out editors learn more
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1Morphology
+
+
+				Toggle Morphology subsection
+			
+
+
+
+
+1.1General analysis
+
+
+
+
+
+1.1.1Derivational synthesis in Odia morphology
+
+
+
+
+
+
+
+1.1.2Relational synthesis in Odia morphology
+
+
+
+
+
+
+
+
+
+1.2Components of a morpheme
+
+
+
+
+
+
+
+1.3Classification
+
+
+
+
+
+
+
+1.4Types of morphemes
+
+
+
+
+
+1.4.1Free morpheme
+
+
+
+
+
+
+
+1.4.2Bound morpheme
+
+
+
+
+
+
+
+1.4.3Complex or combined morpheme
+
+
+
+
+
+
+
+1.4.4Mixed morpheme
+
+
+
+
+
+
+
+1.4.5Marker morpheme
+
+
+
+
+
+1.4.5.1Verb morpheme
+
+
+
+
+
+
+
+1.4.5.2Sub-morpheme
+
+
+
+
+
+
+
+
+
+
+
+1.5Difference between morphemes, words and syllables in Odia
+
+
+
+
+
+
+
+
+
+2Nouns
+
+
+				Toggle Nouns subsection
+			
+
+
+
+
+2.1Number
+
+
+
+
+
+
+
+2.2Gender
+
+
+
+
+
+
+
+2.3Case
+
+
+
+
+
+
+
+
+
+3Pronouns
+
+
+
+
+
+
+
+4Adjectives
+
+
+
+
+
+
+
+5Postpositions
+
+
+
+
+
+
+
+6Classifiers
+
+
+
+
+
+
+
+7See also
+
+
+
+
+
+
+
+8References
+
+
+
+
+
+
+
+9Bibliography
+
+
+
+
+
+
+
+10Further reading
+
+
+
+
+
+
+
+
+
+
+
+
+						Toggle the table of contents
+					
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Odia grammar
+
+
+
+
+Add languages
+
+
+
+
+Add links
+
+
+
+
+
+
+
+
+
+
+
+Article
+
+Talk
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read
+
+Edit
+
+View history
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+ReadEditView history
+
+
+
+
+		General
+	
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageWikidata item
+
+
+
+
+		Print/export
+	
+
+Download as PDFPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+Odia grammar is the study of the morphological and syntactic structures, word order, case inflections, verb conjugation and other grammatical structures of Odia, an Indo-Aryan language spoken in South Asia.
+
+
+Morphology[edit]
+Morphology is the identification, analysis and description of the structure of morphemes and other units of meaning in the Odia language. Morphemes (called ରୁପିମ) are the smallest units of the Odia language that carry and convey a unique meaning and is grammatically appropriate. A morpheme in Odia is the most minuscule meaningful constituent which combines and synthesizes the phonemes into a meaningful expression through its (morpheme's) form & structure. Thus, in essence, the morpheme is a structural combination of phonemes in Odia. In other words, in the Odia language, the morpheme is a combination of sounds that possess and convey a meaning.  A morpheme is not necessarily a meaningful word in Odia. In Odia, every morpheme is either a base or an affix (prefix or a suffix).[1][2]
+Examples:
+Base Morpheme:
+
+ଘର (pronounced [ɡʰɔɾɔ]); lit. 'House'
+Phonetic Components:
+ଘରକୁ = ଘ୍ + ଅ + ର୍ + ଅ + କ୍ + ଉ
+Morphological Components:
+ଘରକୁ = ଘର + କୁ 
+
+ହାତ (pronounced [hatɔ]); lit. 'Hand'
+Morphological Components/Derivatives:
+
+ହାତୀ  = ହାତ + ଈ  (ଈ = ଅଛି)
+ହାତିଆ = ହାତ + ଇଆ (ଇଆ = ପରିମାଣ)
+ହାତୁଡ଼ି = ହାତ + ଉଡ଼ି (ଉଡି = ଆକୃତି)
+General analysis[edit]
+The existence and span of rules of morphemes in a language depend on the "morphology" in that particular language. In a language having greater morphology, a word would have an internal compositional structure in terms of word-pieces (i.e. free morphemes – Bases) and those would also possess bound morphemes like affixes. Such a morpheme-rich language is termed as synthetic language. To the contrary, an isolating language uses independent words and in turn, the words lack internal structure. A synthetic language tends to employ affixes and internal modification of roots (i.e. free morphemes – Bases) for the same purpose of expressing additional meanings.
+Odia is a moderately synthetic language. It contains definite synthetic features, such as the bound morphemes mark tense, number (plurality), gender etc. However, though the Odia language has a larger number of derivational affixes, it has virtually no inflectional morphology.
+
+Derivational synthesis in Odia morphology[edit]
+Odia morphemes of different types (nouns, verbs, affixes, etc.) combine to create new words.
+
+Relational synthesis in Odia morphology[edit]
+In relationally synthesized Odia words, base morphemes (root words) join with bound morphemes to express grammatical function.
+The Odia language has a tendency for commonly used words to have a 2:1 morpheme-word ratio i.e. on average; there are two morphemes in a single word. Because of this tendency, Odia is said to "possess morphology" since almost each used word has an internal compositional structure in terms of morphemes. In the Odia language, generally, separate words are used to express syntactic relationships which imparts an isolating  tendency, while using inflectional morphology could have made the language more synthetic.
+
+Components of a morpheme[edit]
+There are several components of a morpheme in the Odia language. There are as follows:
+Base: A morpheme that imparts meaning to a word.
+Derivational Morpheme: These morphemes alter and/or modify the meaning of the word and may create a whole new word.
+Allomorphs: These are different phonetic forms or variations of a morpheme. The final morphemes in several words are pronounced differently, but they all signify plurality.
+Homonyms: are morphemes that are spelled similarly but have different meanings. Such examples abound in Odia grammar and are termed as similarly pronounced words (ସମୋଚ୍ଚାରିତ ଶବ୍ଦ).  Examples: 
+ଜୀବନ (life) and ଜୀବନ (water), ହରି (Lord Vishnu) and ହରି (Monkey).
+Homophones: These are morphemes that sound alike but have different meanings and spellings.  Examples:
+ସିତ (Black colour),  ସୀତ (Plough head).
+
+Classification[edit]
+Morphemes in Odia may be classified, on the basis of word formation, characteristics into the following types:
+
+
+
+Type
+Structure
+Bound
+Free
+Sub-types
+
+
+Root
+1. Simple2. Made up of a single morpheme3. Basis for compounding and affixation
+Yes/No
+Yes/No
+None
+
+
+Stem
+1. Simple/Complex 2. Composed of one/multiple morphemes 3. Basis for affixation
+Yes/No
+Yes/No
+None
+
+
+Affix
+Simple
+Yes
+No
+Prefix, Infix, Suffix, Suprafix, Simulfix, and Circumfix
+
+
+Clitic
+Simple
+Yes (Phonologically)
+Yes (Syntactically)
+Proclitic and Enclitic
+
+
+Types of morphemes[edit]
+Free morpheme[edit]
+Independent meaningful units are free morphemes. These are elemental words. Free morpheme can stand alone as a word without help of another morpheme.  It does not need anything attached to it to make a word.
+
+ରାମ ଭାତ ଖାଉଛି = ରାମ ଭାତ(କୁ) ଖାଉଛି: କର୍ମ
+ରାତି ବିତାଇଲା = ରାତି(ରେ) ବିତାଇଲା: ଅଧିକରଣ
+ରାମ କଥା ଶୁଣିଲି = ରାମ(ର) କଥା ଶୁଣିଲି: ସମ୍ବନ୍ଧ ପଦ
+Bound morpheme[edit]
+Units which are not independent words but convey meaning on account of their usage on combination are bound morphemes. A bound morpheme is a sound or a combination of sounds that cannot stand on its own as a meaningful word. Most of the bound morphemes in Odia are ‘affixes’. An affix is a morpheme that may come at the beginning (Termed as Prefix) or the end (Termed as Suffix) of a base morpheme.
+In Odia, prefixes are bound morphemes are affixes that come before a base morpheme. For example:
+
+ଉପକୂଳ = ଉପ + କୂଳ
+ଉପନଦୀ = ଉପ + ନଦୀ
+ଅପବାଦ = ଅପ + ବାଦ
+ଅପରୂପ = ଅପ + ରୂପ
+A suffix is an affix that comes after a base morpheme. Example of suffix Bound Morphemes are:
+
+ସାଧୁତା = ସାଧୁ + ତା
+ବୀରତ୍ୱ = ବୀର + ତ୍ୱ
+କାମିକା = କାମ + ଇକା
+ନିସୃୃତ  = ନିଃ + କୃତ
+ତା, ତ୍ୱ, ଇକା are bound morphemes used suffixes.
+/ସାଧୁ/, /ବୀର/, /କାମ/ etc. are ‘complete bound morphemes’ /ତା/, /ତ୍ୱ/, /ଇକା/ etc. are ‘dissected or partial bound morphemes’.
+The free morphemes carry a fixed meaning while the bound morphemes exhibit large scale variations in meanings. The variable and changing meanings of the bound morphemes impart diversity to word meanings and enrich the language.
+
+Complex or combined morpheme[edit]
+In a complex morpheme, multiple free morphemes are combined to form a word and impart meaning. More than one Stem Morphemes create a complex morpheme.
+
+Noun + Noun:
+ଘରଭଡ଼ା = ଘର + ଭଡ଼ା
+ରଙ୍ଗମଞ୍ଚ = ରଙ୍ଗ + ମଞ୍ଚ
+Adjective + Noun:
+କଳା + ପଟା = କଳାପଟା
+Noun + Adjective:
+ସର୍ବ + ସାଧାରଣ = ସର୍ବସାଧାରଣ
+Adjective + Adjective: 
+ଭୀମ + କାନ୍ତ = ଭୀମକାନ୍ତ
+
+Mixed morpheme[edit]
+Where both free and bound morphemes combine to form another morpheme, the result is called a mixed morpheme. The mixed morpheme may result from the following combinations:
+ମଣିଷ + ପଣ + ଇଆ = ମଣିଷପଣ + ଇଆ = ମଣିଷପଣିଆ
+ମଣିଷପଣ is a complex morpheme while ଇଆ is a bound morpheme.
+Inflectional morphemes can only be suffixes. An inflectional morpheme creates a change in the function of the word. Example, ଇଲା with  ସୁଗନ୍ଧ, giving rise to ସୁଗନ୍ଧିଲା, indicates past tense. Odia has innumerable inflectional morphemes, unlike only seven in English Language. Among others, these include the following:
+
+ମାନେ, ଗୁଡ଼ା, ଗୁଡ଼ିଏ (plural, -s in English language)
+ର, ଙ୍କର, ମାନଙ୍କ, ମାନଙ୍କର;  -'s (possessive) are noun inflections;
+ଇଲା, ନିର୍ମିତିଲା past tense (-ed),
+
+ଉଛି; -ing (present participle) are verb inflections;
+In Odia morphology, there are no adjective and adverb inflections like the comparative (-er) and superlative (-est) of English language. Instead, bound morphemes like ଠାରୁ and ରୁ, and free morphemes like ତୁଳନାରେ etc. are used.
+
+Marker morpheme[edit]
+In linguistics, a marker is a morpheme, mostly bound, that indicates the grammatical function of the target (marked) word or sentence. In a language like Odia with isolating language tendencies, it is possible to express syntactic information via separate grammatical words instead of morphology (with bound morphemes). Therefore, the marker morphemes are easily distinguished.
+
+Verb morpheme[edit]
+Verb roots can take transformation and function as morphemes.
+
+ଖା + ଇଆ = ଖିଆ = ମଣିଷଖିଆ ବାଘ
+ପ୍ରଭାବ + ଇଆ = ପ୍ରଭାବିଆ = ପ୍ରଭାବିଆ ମଣିଷ
+Verb Morpheme can be either continuous morphemes or perfect morphemes on the basis of tense.
+Verb continuous morphemes:
+
+ଖା + ଇ = ଖାଇ
+ଅନୁବାଦ + ଇ = ଅନୁବାଦି
+Verb perfect morphemes:
+
+ଖା + ଇଲା = ଖାଇଲା
+ଅନୁଭାବ + ଇଲା = ଅନୁଭାବିଲା
+Sub-morpheme[edit]
+Sub-morphemes are metamorphosis of actual morphemes. Sub-morphemes are also called complementary morphemes or meta-morphemes. Sub-morphemes may arise on account of changes in number of noun morphemes or tense of verb morphemes or gender of noun morphemes, as under:
+
+Number:
+/ଗୋଟିଏ/ + /ଘର/ = /ଗୋଟିଏ ଘର/ One + House = A House
+/ଗୁଡ଼ିଏ/ + /ଘର/ = / ଗୁଡ଼ିଏ ଘର/ Many + House = Many Houses
+/ଗୋଟିଏ/ + /ଲୋକ/ = /ଲୋକଟିଏ /
+/ଅନେକ/ + /ଲୋକ/ = /ଲୋକ/ Sub Morpheme: /ଏ /
+Tense:
+The sub-morphemes are different appearances of a morpheme at different tense. For instance, the present perfect morpheme in Odia is: /ଇଲା/
+However, the present perfect sub-morpheme of /ଇଲା/ is /ଲା/. For instance:
+
+/ଖା/ + /ଇଲା/ = /ଖାଇଲା/
+/ପା/ + /ଇଲା/ = /ପାଇଲା/
+are normal usage of /ଇଲା/.
+However, the sub-morpheme is:
+
+/ଗ/ + /ଲା/ = /ଗଲା/
+/ଦେ/ + /ଲା/ = /ଦେଲା/
+/ନେ/ + /ଲା/ = /ନେଲା/
+Difference between morphemes, words and syllables in Odia[edit]
+Even though morphemes combine to create a word in Odia, the morphemes are not always independent words. Some single morphemes are words while other words are composed of two or more morphemes.
+In Odia, morphemes are also different from syllables. Many words have two or more syllables but only one morpheme. For example: ମୋ'ର.On the other hand, many words have two morphemes and only one syllable; examples include ଧନୀ, ମୋଟା.
+
+Nouns[edit]
+Nouns are those which are inflected by number, gender or case markers.
+
+Number[edit]
+There are two types of numbers in Odia:
+
+singular- ଏକବଚନ
+plural- ବହୁବଚନ
+Singular denotes one and only one person or thing and the noun may be followed or preceded by singular specifiers or singular number markers. Plural which denotes number more than one person or thing, is formed by the addition of plural suffixes to the nouns which usually occur as singular.
+The singular number markers occur as suffix:
+
+
+Singular suffix
+
+
+Suffix
+Eg.
+Meaning
+
+
+ଟି ṭi
+କଲମଟି kalamaṭi
+pen
+
+
+ଟା ṭā
+ଝିଅଟା jhiaṭā
+daughter
+
+
+ଟିଏ ṭie
+ପିଲାଟିଏ pilāṭie
+child
+
+The plural number occur with nominal forms as:
+
+
+No suffix- uncountable nouns
+
+
+Eg
+Meaning
+
+
+ଚିନି cini
+sugar
+
+
+ବାଲି bāli
+sand
+
+
+Plural suffix
+
+
+Suffix
+Eg.
+Meaning
+
+
+ମାନେ māne
+ଲୋକମାନେ lokamāne
+people
+
+
+ମାନ māna
+ଗ୍ରନ୍ଥମାନ granthamāna
+holy books
+
+
+ଗୁଡ଼ା guṛā (guḍā)
+ଭାତଗୁଡ଼ା bhātaguḍā
+boiled rice
+
+
+ଗୁଡ଼ାଏ guṛāe (guḍāe)
+ଫଳଗୁଡ଼ାଏ phaḷaguḍāe
+fruits
+
+
+ଗୁଡ଼ାକ guṛāka (guḍāka)
+ଚାଉଳଗୁଡ଼ାକ cāuḷaguḍāka
+rice
+
+
+ଗୁଡ଼ିଏ guṛie (guḍie)
+ଫୁଲଗୁଡ଼ିଏ phulaguḍie
+flowers
+
+
+ଗୁଡ଼ିକ guṛika (guḍika)
+ନଦୀଗୁଡ଼ିକ nadīguḍika
+rivers
+
+
+ଏ e
+ପିଲେ pile
+children
+
+
+ସବୁ sabu
+ଗାଁସବୁ gā̃sabu
+villages
+
+
+ଶ୍ରେଣୀ śreṇī
+ପର୍ବତଶ୍ରେଣୀ parbataśreṇī
+mountains
+
+
+ଯାକ ẏāka (jāka)
+ଘରଯାକ gharajāka
+houses
+
+Gender[edit]
+There is no grammatical gender in Odia, instead gender is lexical. Though gender plays no major role in grammatical agreement between subject and predicate but it is accounted for in nominal inflections. There are three types of gender:
+
+masculine- ପୁଲିଙ୍ଗ
+feminine- ସ୍ତ୍ରୀଲିଙ୍ଗ
+common- ଉଭୟଲିଙ୍ଗ
+neuter- କ୍ଲୀବଲିଙ୍ଗ
+
+Different words for gender
+
+
+Male
+Meaning
+Female
+Meaning
+
+
+ବାପା bāpā
+father
+ମା mā
+mother
+
+
+ପୁଅ pua
+son
+ଝିଅ jhia
+daughter
+
+
+ଭାଇ bhāi
+brother
+ଭଉଣୀ bhauṇī
+sister
+
+
+ସ୍ୱାମୀ swāmī
+husband
+ସ୍ତ୍ରୀ strī
+wife
+
+
+ରାଜା rājā
+king
+ରାଣୀ rāṇī
+queen
+
+
+ଷଣ୍ଢ ṣaṇḍha
+bull
+ଗାଈ gāī
+cow
+
+
+Prefix
+
+
+Male
+Meaning
+Female
+Meaning
+
+
+ପୁରୁଷ ଲୋକ
+male person
+ସ୍ତ୍ରୀ ଲୋକ
+female person
+
+
+ପୁଅ ପିଲା
+male child
+ଝିଅ ପିଲା
+female child
+
+
+ପୁରୁଷ ଯାତ୍ରୀ
+male passenger
+ମହିଳା ଯାତ୍ରୀ
+female passenger
+
+
+ଅଣ୍ଡିରା କୁକୁର
+male dog
+ମାଈ କୁକୁର
+female dog
+
+
+ଅଣ୍ଡିରା ଛେଳି
+male goat
+ମାଈ ଛେଳି
+female goat
+
+
+Suffix
+
+
+Suffix
+Male
+Meaning
+Female
+Meaning
+
+
+ଆ
+ସଭ୍ୟ
+male member
+ସଭ୍ୟା
+female member
+
+
+ଶିଷ୍ୟ
+male student
+ଶିଷ୍ୟା
+female student
+
+
+ଦୁଷ୍ଟ
+naughty(m)
+ଦୁଷ୍ଟା
+naughty(f)
+
+
+ଆ(morpho-phonemicchange- ଅ to ଇ)
+ବାଳକ
+boy
+ବାଳିକା
+girl
+
+
+ଗାୟକ
+male singer
+ଗାୟିକା
+female singer
+
+
+ନାୟକ
+actor
+ନାୟିକା
+actress
+
+
+ଶିିିକ୍ଷକ
+male teacher
+ଶିକ୍ଷିକା
+female teacher
+
+
+ଈ
+ପୁତ୍ର
+son
+ପୁତ୍ରୀ
+daughter
+
+
+ବୁଢ଼ା
+old man
+ବୁଢ଼ୀ
+old woman
+
+
+କୁମାର
+young boy
+କୁମାରୀ
+young girl
+
+
+ସୁନ୍ଦର
+handsome(m)
+ସୁନ୍ଦରୀ
+beautiful(f)
+
+
+ଦେବ
+god
+ଦେବୀ
+goddess
+
+
+ଈ(morpho-phonemicchange- ଆ to ଈ)
+ଟୋକା
+boy
+ଟୋକୀ
+girl
+
+
+ଛୋଟା
+lame(m)
+ଛୋଟୀ
+lame(f)
+
+
+ଈ(morpho-phonemicchange- ଅ to ଆ)
+କଣା
+blind(m)
+କାଣୀ
+blind(f)
+
+
+ସଳା
+brother-in-law
+ସାଳୀ
+sister-in-law
+
+
+ଈ(morpho-phonemicchange- ଆ to ରୀ)
+ନେତା
+male leader
+ନେତ୍ରୀ
+female leader
+
+
+ରଚୈତା
+author
+ରଚୈତ୍ରୀ
+female author
+
+
+ଣୀ
+ଚୋର
+male thief
+ଚୋରଣୀ
+female thief
+
+
+ମୂଲିଆ
+male labourer
+ମୂଲିଆଣୀ
+female labourer
+
+
+ଣୀ(morpho-phonemicchange- ଅ to ଆ)
+ଠାକୁର
+god
+ଠାକୁରାଣୀ
+goddess
+
+
+ମାଷ୍ଟର
+male teacher
+ମାଷ୍ଟ୍ରାଣୀ
+female teacher
+
+
+ତନ୍ତୀ
+male weaver
+ତନ୍ତୀଆଣୀ
+female weaver
+
+
+ଡାକ୍ତର
+male doctor
+ଡାକ୍ତରାଣୀ
+female doctor
+
+
+ଣୀ(morpho-phonemicchange- ଅ to ଉ)
+ବାଘ
+tiger
+ବାଘୁଣୀ
+tigress
+
+
+ଗଧ
+male donkey
+ଗଧୁଣୀ
+female donkey
+
+
+ଣୀ(morpho-phonemicchange- ଆ to ଉ)
+ଚଷା
+male farmer
+ଚାଷୁଣୀ
+female farmer
+
+
+ଣୀ(morpho-phonemicchange- ଇ to ଉ)
+ମାଳି
+male gardener
+ମାଲୁଣୀ
+female gardener
+
+
+ଭିକାରି
+male beggar
+ଭିକାରୁଣୀ
+female beggar
+
+
+ନୀ
+ବନ୍ଦୀ
+male prisoner
+ବନ୍ଦିନୀ
+female prisoner
+
+
+ଧନା
+rich(m)
+ଧନିନୀ
+rich(f)
+
+Case[edit]
+Case inflection is a common characteristic of inflectional languages and are also known as case markers or "ବିଭକ୍ତି" in Odia. It is both syntactical and morphological in nature. The function of the case is to indicate the grammatical or semantic relationships between nouns and also between nouns and verbs in a larger syntactic structure.
+There are 8 types of cases in Odia:
+
+
+Cases (ବିଭକ୍ତି)
+
+
+Case
+
+Names of cases in Odia
+Singular
+Plural
+
+
+Nominative
+
+କର୍ତ୍ତାକାରକ
+∅
+-ମାନେ, -ଏ  -māne, -e
+
+
+Accusative
+
+କର୍ମକାରକ
+-କୁ-ku
+-ମାନଙ୍କୁ-mānaḷuṃ
+
+
+Dative
+
+ସମ୍ପ୍ରଦାନ କାରକ
+
+
+Genitive
+
+ସମ୍ବନ୍ଧ କାରକ
+-ର-ra
+-ମାନଙ୍କର-mānaḷuṃra
+
+
+Locative
+
+ଅଧିକରଣ କାରକ
+-ରେ, -ଠାରେ-re, -ṭhāre
+-ମାନଙ୍କରେ, -ମାନଙ୍କଠାରେ-mānaḷuṃre, -mānaḷuṃṭhāre
+
+
+Instrumental
+
+କରଣକାରକ
+-ରେ, -ଦ୍ୱାରା, -ଦେଇ-re, -dwārā, -dera
+-ମାନଙ୍କରେ, -ମାନଙ୍କଦ୍ୱାରା-mānaḷuṃre, -mānaḷuṃdwārā
+
+
+Ablative
+
+ଅପାଦାନ କାରକ
+-ରୁ, -ଠାରୁ-ru, -ṭhāru
+-ମାନଙ୍କରୁ, -ମାନଙ୍କଠାରୁ-mānaḷuṃru, -mānaḷuṃṭhāru
+
+
+Vocative
+
+ସମ୍ବୋଧକ କାରକ
+ହେ, ରେ, ହୋ
+
+For Vocative case: Due to lack of synthetic inflectional morphemes, a vocative particle is used.
+
+Pronouns[edit]
+Pronouns are classified both notionally and morphologically.
+Personal pronouns are of two types:
+
+Direct case- used for Nominative case
+Oblique case- used with case inflections (Accusative, Instrumental, Dative, Ablative, Genitive, Locative)
+
+Personal Pronouns
+
+
+Person
+Case
+Pronoun
+Singular
+Pronoun
+Plural
+
+
+1st
+Direct
+I
+ମୁଁ
+We
+ଆମେଆମେମାନେ
+
+
+Oblique
+Me, My, Mine
+ମୋ-
+Us, Our, Ours
+ଆମ-ଆମମାନଙ୍କ-
+
+
+2nd
+Direct
+You
+ତୁ (informal)ତୁମେ (formal)ଆପଣ (honorific)
+You
+ତୁମେମାନେଆପଣମାନେ (honorific)
+
+
+Oblique
+You, Your, Yours
+ତୋ- (informal)ତୁମ- (formal)ଆପଣଙ୍କ- (honorific)
+You, Your, Yours
+ତୁମମାନଙ୍କ-ଆପଣମାନଙ୍କ- (honorific)
+
+
+3rd(distal)
+Direct
+He/She
+ସେ
+They
+ସେମାନେ
+
+
+Oblique
+Him/Her, His/Hers
+ତା- (informal)ତାଙ୍କ- (formal)
+Them/Their/Theirs
+ସେମାନଙ୍କ-
+
+Adjectives[edit]
+
+Adjectives
+
+
+Adjective type
+Eg.
+Meaning
+
+
+adjective
+ଭଲ ପୁଅ
+good boy
+
+
+ନାଲି ଫୁଲ
+red flower
+
+
+adjective(numeral)-specifier
+ଦଶଟି ଫୁଲ
+ten flowers
+
+
+ପାଞ୍ଚଟା ଗାଁ
+five villages
+
+
+ଜଣେ ଛାତ୍ର
+a student
+
+
+ଦଶ ଜଣ ଶିକ୍ଷକ
+ten teachers
+
+
+adjective(numeral)-quantity/measure
+ପାଞ୍ଚ କିଲୋ ପରିବା
+5 kg vegetables
+
+
+ଦଶ ଲିଟର ତେଲ
+10 ltr oil
+
+
+adjective adjective
+ଅତି ବଡ଼ ଘର
+very big house
+
+
+ଭାରି ସୁନ୍ଦର ପିଲା
+very beautiful child
+
+
+adverb adjective
+ଧୀର ମିଠା କଥା
+soft sweet talk
+
+
+compound adverb
+କାନ୍ଦ କାନ୍ଦ ମୁଁହ
+crying face
+
+
+ହସ ହସ ଭାବ
+smiling appearance
+
+
+adverb verbal noun
+ଧୀର ଚାଲି
+slow walking
+
+
+ଚଞ୍ଚଳ ଖିଆ
+quick eating
+
+
+
+Derived Adjectives
+
+
+Type
+Adjective type
+Noun/Verb
+Eg.
+Meaning
+
+
+Suffix
+noun-ā
+ରୋଗ
+ରୋଗା ଲୋକ
+ill person
+
+
+ଦକ୍ଷିଣ
+ଦକ୍ଷିଣା ପବନ
+southern wind
+
+
+verb-ā
+ଶୁଣ
+ଶୁଣା କଥା
+heard matter
+
+
+ଜାଣ
+ଜଣା ଖବର
+known news
+
+
+noun verb-ā
+ଚାଉଳ, ଧୋ
+ଚାଉଳ ଧୁଆ ପାଣି
+rice-washed water
+
+
+ଲୁଗା, କାଚ୍
+ଲୁଗା କଚା ସାବୁନ୍
+cloth washing soap
+
+
+verb-i
+ଗୁଣ
+ଗୁଣି ଲେକ
+good person
+
+
+ଦାମ୍
+ଦାମି ଜିନିଷ
+costly thing
+
+Postpositions[edit]
+Postpositions used with Inflections: The postpositions which occur with nominal forms and function as both morphological and syntactic markers. They are added to the nominal stems formed by noun-genitive case markers.
+
+
+Postpositions used with Inflections
+
+
+Postpositions
+Meaning
+Postpositions
+Meaning
+
+
+ଉପରେ
+up
+ପରି
+like
+
+
+ମଧ୍ୟରେ
+between
+ଭଳି
+like
+
+
+ଭିତରେ
+in
+ପ୍ରତି
+per head
+
+
+ତଳେ
+under
+ଜଗୁଁ
+because of
+
+
+ପାଖରେ
+near
+ହେତୁ
+because of
+
+
+ବଦଳରେ
+instead of
+ନେଇ
+by
+
+
+ନିକଟରେ
+near
+ଦ୍ଵାରା
+by
+
+
+ଠାରୁ
+from
+ଦ୍ୱାରା
+by
+
+
+ସକାସେ
+for
+ପାଇଁ
+by
+
+
+ନିମନ୍ତେ
+for
+ଠାରେ
+at
+
+
+ପରିବର୍ତ୍ତେ
+instead of
+ରୁପେ
+like
+
+
+Indeclinable Postpositions: Those which do not have inflected suffixes, function as indeclinables.
+
+
+Postpositions as Indeclinables
+
+
+Postpositions
+Meaning
+Postpositions
+Meaning
+
+
+ଭଳି
+like
+ପରି
+like
+
+
+ହେଲେ
+then
+ସବୁ
+all
+
+
+ସହିତ
+with
+ସଙ୍ଗେ
+with
+
+
+ନିମନ୍ତେ
+for
+ସାଥେ
+with
+
+
+ମଧ୍ୟ
+also
+ଅନ୍ତେ
+then
+
+
+ସହ
+with
+ଜାକ
+all
+
+
+Classifiers[edit]
+When a noun is enumerated, it takes a group of morphemes called classifiers.
+When the number denotes 'one', then the structure of the phrase:
+
+classifier-numeral noun
+Eg- ଜଣେ ପିଲା – one child
+When the numeral is more than 'one', then the structure is:
+
+numeral classifier noun
+Eg- ଦୁଇ ଜଣ ପିଲା – two children
+Classifiers have two types-
+
+qualifiers- used for count nouns.
+Nouns which occur with ଗୋଟା,ଗୋଟି or its variant -ଟା,-ଟି
+Eg- ଗୋଟିଏ ପିଲା – one child, ଦୁଇଟି ପିଲା -two children
+ଗୋଟିଏ ଘର – one house, ଦୁଇଟି ଘର – two houses
+Other types of count nouns of human and non human forms include-
+
+ଜଣେ ପିଲା – one child
+ଖଣ୍ଡେ ଲୁଗା – one piece of cloth
+ଗୋଛାଏ କାଠ – one bundle of wood
+ଫାଳେ କାଠ – a half piece of wood
+ଗଦାଏ କାଠ – one heap of wood
+କିଲେ କାଠ – one kilo of wood
+ଫୁଟେ କାଠ – one foot of wood
+ବସ୍ତାଏ କାଠ – one sack of wood
+quantifiers- used for mass nouns
+Nouns which occur with ମେଞ୍ଚା
+Eg- ମେଞ୍ଚାଏ କାଦୁଅ – a lump of mud
+
+See also[edit]
+Odia language
+Odia script
+Odia literature
+References[edit]
+
+
+^ Mahapatra, B.P. (2002). Linguistic Survey of India: Orissa (PDF). Kolkata, India: Language Division, Office of the Registrar General. p. 36. Retrieved 5 August 2020.
+
+^ Grierson, G.A. (1903–28). Linguistic Survey of India. India: Office of the Superintendent of Government Printing. p. 367. Retrieved 31 October 2020.
+
+
+Bibliography[edit]
+Neukom, Lukas; Patnaik, Manideepa (2003). A grammar of Oriya (PDF). Zürich: Universität Zürich. ISBN 3-9521010-9-5. OCLC 53903369.
+Cardona, George; Jain, Dhanesh, eds. (2003), The Indo-Aryan Languages, Routledge, ISBN 978-0-415-77294-5
+Masica, Colin (1991), The Indo-Aryan Languages, Cambridge: Cambridge University Press, ISBN 978-0-521-29944-2
+John Beames, A comparative grammar of the modern Aryan languages of India: to wit, Hindi, Panjabi, Sindhi, Gujarati, Marathi, Oriya, and Bangali. Londinii: Trübner, 1872–1879. 3 vols.
+Hallam, Ebenezer (1874), Oriya Grammar for English Students, Baptist Mission Press
+Sutton, Amos (1831), An Introductory Grammar of the Oriya Language, Baptist Mission Press, ISBN 9785878188555
+Mahapatra, B.P. (2007), A synchronic grammar of Oriya : standard spoken and written, Central Institute of Indian Languages, Mysore, OCLC 269283851
+Further reading[edit]
+Fromkin, Victoria, and Robert Rodman, An Introduction to Language,  5th ed., Fort Worth: Harcourt Brace Joanovich College Publishers, 1993
+Bauer, Mary Beth, et al., Grammar and Composition, New Jersey: Prentice-Hall Inc., 1982
+Dhal, Golok Behari, Introduction to Oriya Phonetics, 1961
+Ghosh, A, An ethnolinguistic profile of Eastern India: a case of South Orissa, Burdwan: Dept. of Bengali (D.S.A.), University of Burdwan, 2003
+Masica, Colin (1991). The Indo-Aryan Languages,  Cambridge Language Surveys. Cambridge: Cambridge University Press. ISBN 978-0-521-29944-2
+Mohanty, Prasanna Kumar (2007). The History of Oriya Literature (Oriya Sahityara Adya Aitihasika Gana).
+vteOdia languageLanguage
+Grammar
+Dialects/VarietiesRegional
+Baleswari
+Kataki
+Ganjami
+Sundargadi
+Sambalpuri
+Desia
+Minor
+Kalahandia
+Phulbani
+Singhbhumi
+Sociolects
+Bodo Parja
+Bhatri
+Reli
+Kupia
+Scripts
+Odia
+Karani
+Kalinga
+Numerals
+Odia Braille
+Literature
+Literature
+Chautisa
+Writers
+Literary awards
+Sahitya Akademi Award
+Sahitya Akademi Translation Prize
+Yuva Puraskar
+Odisha Sahitya Akademi
+Odisha Sahitya Akademi Award
+Atibadi Jagannath Das Award
+Culture
+Odissi music
+Odia calendar
+
+vte State of OdishaCapital: BhubaneswarState symbols
+Emblem: Emblem of Odisha
+Song: Bande Utkala Janani
+Animal: Sambar
+Bird: Indian roller
+Flower: Ashoka
+Tree: Sacred fig
+Fish: Mahanadi mahseer
+Governance
+Governors
+Chief ministers
+Legislative Assembly
+Constituencies
+High Court
+Police
+Elections
+Politics
+Human Rights Commission
+History
+Kalinga
+Rulers
+Mahameghavahana dynasty
+Murunda dynasty
+Nala dynasty
+Mathara dynasty
+Pitrbhakta dynasty
+Shailodbhava dynasty
+Bhauma-Kara dynasty
+Bhanja dynasty
+Somavamshi dynasty
+Eastern Ganga dynasty
+Gajapati Empire
+Bhoi dynasty
+Orissa Tributary States
+Utkal Sammilani
+Historic sites
+Maritime history of Odisha
+Geography
+Flora and Fauna
+Forests
+Utkal Plains
+Garhjat Hills
+Chilika Lake
+Deomali (Highest point)
+Abdul Kalam Island
+DistrictsbydivisionNorthern
+Angul
+Balangir
+Bargarh
+Debagarh
+Dhenkanal
+Jharsuguda
+Kendujhar
+Sambalpur
+Subarnapur
+Sundergarh
+Central
+Balasore
+Bhadrak
+Cuttack
+Jagatsinghpur
+Jajpur
+Kendrapara
+Khordha
+Mayurbhanj
+Nayagarh
+Puri
+Southern
+Boudh
+Gajapati
+Ganjam
+Kalahandi
+Kandhamal
+Koraput
+Malkangiri
+Nabrangpur
+Nuapada
+Rayagada
+Cities
+Angul
+Balangir
+Balasore
+Barbil
+Bargarh
+Baripada
+Bhadrak
+Bhawanipatna
+Bhubaneswar
+Berhampur
+Cuttack
+Dhenkanal
+Jajpur
+Jharsuguda
+Jeypore
+Joda
+Kendrapara
+Kendujhar
+Khordha
+Paradeep
+Puri
+Rourkela
+Sambalpur
+Talcher
+GI products
+Berhampur Patta
+Bomkai sari
+Dhalapathar Parda & Fabrics
+Ganjam Kewda Flower
+Ganjam Kewda Rooh
+Gopalpur Tussar Fabrics
+Habaspuri sari
+Khandua
+Konark stone carving
+Kotpad Handloom fabrics
+Odisha Ikat
+Pattachitra
+Pipili appliqué work
+Odisha Rasagola
+Sambalpuri sari
+Topics
+Arts
+Cinema
+Cuisine
+Culture
+Day
+Economy
+Education
+Festivals
+Language
+Act
+Script
+Literature
+Grammar
+People
+Tribes
+Sports
+Tourism
+ India portal
+vteGrammars of specific South Asian languagesIndo-Aryan
+Bengali
+Gujarati
+Hindustani (Hindi-Urdu)
+Maithili
+Marathi
+Nepali
+Odia
+Punjabi
+Sanskrit
+Classical
+Vedic
+Dravidian
+Kannada
+Malayalam
+Tamil
+Telugu
+Sino-Tibetan
+Kokborok
+Mizo
+Iranian
+Pashto
+
+vteGrammars of the world's languagesIndo-EuropeanGermanic
+Afrikaans
+Danish
+Dutch
+English
+Old
+Faroese
+German
+Icelandic
+Norwegian
+Old Norse
+Ripuarian
+Swedish
+West Frisian
+Yiddish
+Celtic
+Breton
+Cornish
+Irish
+Old
+Manx
+Scottish Gaelic
+Welsh
+colloquial
+literary
+Italic
+Catalan
+Dalmatian
+French
+Istro-Romanian
+Italian
+Latin
+Lombard
+Eastern
+Western
+Portuguese
+Romanian
+Spanish
+Venetian
+Baltic
+Latvian
+Lithuanian
+Slavic
+Belarusian
+Bulgarian
+Czech
+Macedonian
+Old Church Slavonic
+Polish
+Russian
+Serbo-Croatian
+Slovak
+Slovene
+Ukrainian
+Iranian
+Kurdish
+Pashto
+Persian
+Tajik
+Indo-Aryan
+Bengali
+Gujarati
+Hindustani
+Maithili
+Marathi
+Nepali
+Odia
+Punjabi
+Sanskrit
+Vedic
+other
+Albanian
+Greek
+Ancient
+Koine
+Hittite
+Uralic
+Estonian
+Finnish
+Hungarian
+Ingrian
+Komi
+Livonian
+Udmurt
+Turkic
+Kazakh
+Kyrgyz
+Tatar
+Turkish
+Turkmen
+Uyghur
+Uzbek
+Yakut
+other European
+Abkhaz
+Adyghe
+Basque
+Georgian
+Kabardian
+Laz
+Mingrelian
+Ubykh
+Afroasiatic
+Arabic
+Central Atlas Tamazight
+Hebrew
+Historical
+Kabyle
+Levantine Arabic
+Somali
+Tigrinya
+Ugaritic
+Niger–Congo
+Fula
+Pular
+Herero
+Sotho
+Swahili
+Zulu
+Dravidian
+Kannada
+Malayalam
+Tamil
+Telugu
+Japonic
+Japanese
+Classical Japanese
+Okinawan
+Hachijō
+Sino-Tibetan
+Cantonese
+Classical Chinese
+Kokborok
+Mandarin Chinese
+Mizo
+Tibetan
+Austroasiatic
+Khmer
+Vietnamese
+Kra–Dai
+Has Hlai
+Lao
+Thai
+other East Asian
+Evenki
+Korean
+Mongolian
+Austronesian
+Cebuano
+Hawaiian
+Ilocano
+Malay
+Tagalog
+Algic
+Massachusett
+Ojibwe
+Uto-Aztecan
+Nahuatl
+Classical
+Nawat
+other Native American
+Cherokee
+Inuit
+Miskito
+Navajo
+Otomi
+sign
+American
+artistic
+Klingon
+Na'vi
+Quenya
+auxiliary
+Esperanto
+Interlingua
+Interlingue
+Lingua Franca Nova
+other constructed
+Lojban
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Odia_grammar&oldid=1146142775"
+Categories: Odia languageIndo-Aryan grammarsHidden category: CS1: abbreviated year range
+
+
+
+
+
+
+ This page was last edited on 23 March 2023, at 00:58 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
+

@@ -183,9 +183,9 @@ def text_csv():
             os.mkdir("processed/")
 
     # Get all the text files in the text directory
-    for file in os.listdir("text/"):
+    for file in os.listdir("text/bengali/"):
         # Open the file and read the text
-        with open("text/"+ file, "r", encoding="utf8") as f:
+        with open("text/bengali/"+ file, "r", encoding="utf8") as f:
             text = f.read()
             # Omit the first 11 lines and the last 4 lines, then replace -, _, and #update with spaces.
             texts.append((file[11:-4].replace('-',' ').replace('_', ' ').replace('#update',''), text))
@@ -292,7 +292,7 @@ def answer_question(
         max_len=max_len,
         size=size,
     )
-    print("Context: "+context)
+    # print("Context: "+context)
     # If debug, print the raw model response
     if debug:
         print("Context:\n" + context)
@@ -320,10 +320,10 @@ def answer_question(
 @api_view(['GET'])
 def askQuestion(request):
     q = request.GET.get('question', '')
-    print("Question: "+q)
+    # print("Question: "+q)
     print("Answer Question called.")
     answer=answer_question(df,question=q)
-    print("Answer:"+answer)
+    # print("Answer:"+answer)
     return Response(answer)
 
 

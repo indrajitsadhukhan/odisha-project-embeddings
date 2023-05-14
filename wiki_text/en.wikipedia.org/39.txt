@@ -1,0 +1,442 @@
+
+
+
+
+Wikipedia:Administrators' guide - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+		Contribute
+	
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+Languages
+
+Language links are at the top of the page across from the title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Personal tools
+
+
+
+
+ Create account Log in
+
+
+
+
+		Pages for logged out editors learn more
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+move to sidebar
+hide
+
+
+
+
+(Top)
+
+
+
+
+
+1Guides
+
+
+
+
+
+
+
+2See also
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+Toggle the table of contents
+
+
+
+
+
+
+
+Wikipedia:Administrators' guide
+
+
+
+
+37 languages
+
+
+
+AlemannischÆngliscالعربيةAzərbaycancaবাংলাBasa BanyumasanCatalàDeutschEspañolEuskaraفارسی한국어ՀայերենHrvatskiBahasa IndonesiaItalianoעבריתJawaქართულიMagyarМакедонскиNederlands日本語ଓଡ଼ିଆPortuguêsРусскийСрпски / srpskiSuomiSvenskaதமிழ்Татарча / tatarçaไทยTürkçeУкраїнськаئۇيغۇرچە / UyghurcheTiếng Việt中文
+Edit links
+
+
+
+
+
+
+
+
+
+
+
+Project page
+
+Talk
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read
+
+View source
+
+View history
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+ReadView sourceView history
+
+
+
+
+		General
+	
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata item
+
+
+
+
+		Print/export
+	
+
+Download as PDFPrintable version
+
+
+
+
+		In other projects
+	
+
+Wikimedia CommonsMeta-WikiWikidataWikivoyage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From Wikipedia, the free encyclopedia
+
+
+
+
+This page in a nutshell: This page documents common tasks administrators do and their best practices. Here admins can learn how to exercise their tools properly before being set loose on the big, wide encyclopedia...ShortcutWP:ADMINGUIDE
+
+
+
+
+
+Administrators' Newsletter
+May 2023
+ 
+A RfC about removing administrative privileges in specified situations is open for feedback.
+Progress has started on the Page Triage improvement project.
+The WMF annual plan 2023-2024 draft is open for comment and input through May 19. The final plan will be published in July 2023.
+
+
+Discuss
+Subscribe
+Archive
+
+
+Welcome, admins! This suite of pages documents common admin tasks and how to properly perform them. Administrative tools have been granted due to the trust the community has in you, so it's important you understand how they work before attempting to use them. Here you can learn about everything you can do, and some of the features you'll be able to test out in a safe environment without worry of causing disruption. Spending 15 or 20 minutes here may seem well worth it if it keeps you from ending up in the village stocks.
+Please note that as an operator of an account with administrative privileges, you should review your user account security practices. You may also wish to subscribe to the Administrators' newsletter to stay up to date with relevant discussions and technology changes.
+
+Guides
+Some of these pages will provide you with a way to practice using the tools in an environment that will not harm the encyclopedia. Others simply document what you are able to do and their best practices.
+
+Viewing deleted pages and contributions
+Rollback
+Protecting
+Deleting
+Fixing cut-and-paste moves (e.g. WP:HISTMERGE)
+Blocking
+Granting and revoking user rights
+Cleaning backlogs
+Dealing with spam
+Dealing with disputes
+Edit filters
+Tools, scripts and gadgets
+See also
+WP:Administrators' reading list
+WP:Advice for new administrators
+WP:Closing discussions – a frequent admin task, but not covered in the guide above
+WP:In the news/Administrator instructions
+WP:List of administrators
+WP:What adminship is not (essay)
+Category:Administrative backlog
+Template:Admin dashboard
+Help:Two-factor authentication – highly recommended settings to increase the security of your administrator account
+vteAdministrators' guideArticles
+Advice for new administrators
+Blocking
+Cleaning backlogs
+Dealing with disputes
+Dealing with spam
+Deleting
+Edit filters
+Granting and revoking user rights
+History merging
+Protecting
+Reading list
+Rollback
+Tools, scripts and gadgets
+Viewing deleted pages and contributions
+Policies
+Administrator policy (WP:ADMIN)
+Banning policy (WP:BAN)
+Blocking policy (WP:BLOCK)
+Deletion policy (WP:DEL)
+Protection policy (WP:PROTECT)
+Revision deletion policy (WP:REVDEL)
+
+
+
+
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_guide&oldid=1112353085"
+Categories: Wikipedia Administrators' guideWikipedia adminshipHidden category: Wikipedia semi-protected project pages
+
+
+
+
+
+
+ This page was last edited on 25 September 2022, at 23:05 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+

@@ -1,0 +1,277 @@
+
+
+
+
+CAPTCHA help - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+		Contribute
+	
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+		Languages
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Personal tools
+
+
+
+
+ Create account Log in
+
+
+
+
+		Pages for logged out editors learn more
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAPTCHA help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+
+
+
+
+
+		General
+	
+
+Upload fileSpecial pagesPrintable version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Explanation
+Web sites that accept postings from the public, like this wiki, are often abused by spammers who use automated tools to post their links to many sites. While these spam links can be removed, they are a significant nuisance. A common counter-measure is to show the user an image of colored or distorted text, known as a CAPTCHA, and ask them to type the words shown. Since answering a CAPTCHA is a task that is hard to automate, it will allow most real humans to make their posts while stopping most spammers and other robotic attackers.
+On Wikipedia you may be asked to fill in a CAPTCHA when adding new web links to a page, when you attempt to create an account, or when you enter your password incorrectly. Unfortunately, this may inconvenience users with limited vision or using text-based or speech-based browsers. At the moment we do not have an audio alternative available. 
+
+Options
+If you are trying to create an account, you may request that an account be created for you.
+If you are trying to log in to your account and have mistyped your password, wait 15 minutes and try again.
+If you are trying to add content to an article, contact the help desk for assistance.
+Retrieved from "https://en.wikipedia.org/wiki/Special:Captcha/help"
+
+
+
+
+
+
+
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+

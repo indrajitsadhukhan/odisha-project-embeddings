@@ -1,0 +1,372 @@
+
+
+
+
+View source for Module:Navbar/configuration - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+
+
+
+
+
+
+
+
+Main menu
+
+
+
+
+
+Main menu
+move to sidebar
+hide
+
+
+
+		Navigation
+	
+
+Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+
+
+
+
+		Contribute
+	
+
+HelpLearn to editCommunity portalRecent changesUpload file
+
+
+
+
+Languages
+
+Language links are at the top of the page across from the title.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Personal tools
+
+
+
+
+ Create account Log in
+
+
+
+
+		Pages for logged out editors learn more
+
+
+ContributionsTalk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View source for Module:Navbar/configuration
+
+
+
+
+Add languages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module
+
+Talk
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Read
+
+View source
+
+View history
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+Tools
+move to sidebar
+hide
+
+
+
+		Actions
+	
+
+ReadView sourceView history
+
+
+
+
+		General
+	
+
+What links hereRelated changesUpload fileSpecial pagesPage informationWikidata item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+← Module:Navbar/configuration
+You do not have permission to edit this page, for the following reasons:
+
+
+
+This page is currently protected so that only administrators can edit it.
+
+
+Why is the page protected?
+
+Some templates and site interface pages are permanently protected due to visibility. Occasionally, articles are temporarily protected because of editing disputes. Most articles can be edited by anyone.
+The reason for protection can be found in the protection log. If there are no relevant entries in the protection log, the page may have been moved after being protected.
+
+
+
+
+What can I do?
+
+Discuss this page with others.
+For move-protected pages, see requested moves.
+Request that the page's protection level be reduced.
+Find out more about how to get started editing Wikipedia.
+If you have noticed an error or have a suggestion for a simple, non-controversial change, you can submit an edit request by clicking the button below and following the instructions. An administrator may then make the change on your behalf. Please check the talk page first in case the issue is already being discussed.
+
+Submit an edit request
+
+
+If you wrote any text, please save it temporarily to your device until you can edit this page.
+
+
+
+
+
+
+ This IP address has been blocked from editing Wikipedia.This does not affect your ability to read Wikipedia pages.Most people who see this message have done nothing wrong. Some kinds of blocks restrict editing from specific service providers or telecom companies in response to recent abuse or vandalism, and affect other users who are unrelated to that abuse. See below if you do not believe you have done anything wrong.
+There are currently multiple blocks against your username, your IP address, or both. The block details below give information about the longest block.
+The IP address or range 20.205.110.201 has been  blocked (disabled)  for the following reason(s):
+
+
+There are multiple blocks against your account and/or IP address
+
+
+This block will expire on 09:01, 11 May 2024. 
+
+
+Even when blocked, you will usually still be able to edit your user talk page and email administrators and other editors.
+
+
+
+For information on how to proceed, please read the FAQ for blocked users and the guideline on block appeals. The guide to appealing blocks may also be helpful.
+
+
+Other useful links: Blocking policy · Help:I have been blocked
+
+
+
+You can view and copy the source of this page:return {
+	['templatestyles'] = 'Module:Navbar/styles.css',
+	['hlist_templatestyles'] = 'Hlist/styles.css',
+	['box_text'] = 'This box: ',			-- default text box when not plain or mini
+	['title_namespace'] = 'Template',		-- namespace to default to for title
+	['invalid_title'] = 'Invalid title ',
+	['classes'] = { -- set a line to nil if you don't want it
+		['navbar'] = 'navbar',
+		['plainlinks'] = 'plainlinks', -- plainlinks
+		['horizontal_list'] = 'hlist', -- horizontal list class
+		['mini'] = 'navbar-mini', -- class indicating small links in the navbar
+		['this_box'] = 'navbar-boxtext',
+		['brackets'] = 'navbar-brackets',
+		-- 'collapsible' is the key for a class to indicate the navbar is
+		-- setting up the collapsible element in addition to the normal
+		-- navbar.
+		['collapsible'] = 'navbar-collapse',
+		['collapsible_title_mini'] = 'navbar-ct-mini',
+		['collapsible_title_full'] = 'navbar-ct-full'
+	}
+}
+Pages transcluded onto the current version of this page (help):
+
+Template:Module other (view source) (extended confirmed protected)Template:Module rating (view source) (semi-protected)Template:Ombox (view source) (protected)Template:Sandbox other (view source) (template editor protected)Template:Used in system (view source) (semi-protected)Module:Arguments (view source) (protected)Module:Documentation (view source) (template editor protected)Module:Documentation/config (view source) (template editor protected)Module:Documentation/styles.css (view source) (template editor protected)Module:Effective protection expiry (view source) (protected)Module:Effective protection level (view source) (protected)Module:File link (view source) (template editor protected)Module:High-use (view source) (extended confirmed protected)Module:Message box (view source) (protected)Module:Message box/configuration (view source) (protected)Module:Message box/ombox.css (view source) (protected)Module:Navbar/configuration (view source) (protected)Module:Navbar/configuration/doc (edit) Module:Protection banner (view source) (template editor protected)Module:Protection banner/config (view source) (template editor protected)Module:String (view source) (protected)Module:Transclusion count (view source) (extended confirmed protected)Module:Transclusion count/data/N (view source) (semi-protected)Module:Yesno (view source) (protected)Return to Module:Navbar/configuration.
+
+Retrieved from "https://en.wikipedia.org/wiki/Module:Navbar/configuration"
+
+
+
+
+
+
+
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Mobile view
+Developers
+Statistics
+Cookie statement
+
+
+
+
+
+
+
+
+
+
+
+Toggle limited content width
+
+
+
+
