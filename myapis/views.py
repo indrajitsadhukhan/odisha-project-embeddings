@@ -51,10 +51,12 @@ Functions
 
 
 df = pd.DataFrame()
+language="bengali"
+
 # Use Azure OpenAI
 openai.api_key=""
 openai.api_type='azure'
-openai.api_base=""
+openai.api_base="https://azure-test12.openai.azure.com/"
 api_version_gpt35 = "2023-03-15-preview"
 openai.api_version=api_version_gpt35
 
@@ -64,7 +66,7 @@ BASE_URL=""
 def split_into_many(text, max_tokens = max_tokens):
 
     # Split the text into sentences
-    sentences = text.split('. ')
+    sentences = text.split(' ')
     tokenizer = tiktoken.get_encoding("cl100k_base")
     # Get the number of tokens for each sentence
     n_tokens = [len(tokenizer.encode(" " + sentence)) for sentence in sentences]
@@ -80,7 +82,7 @@ def split_into_many(text, max_tokens = max_tokens):
         # than the max number of tokens, then add the chunk to the list of chunks and reset
         # the chunk and tokens so far
         if tokens_so_far + token > max_tokens:
-            chunks.append(". ".join(chunk) + ".")
+            chunks.append(" ".join(chunk)+" ")
             chunk = []
             tokens_so_far = 0
 
@@ -183,7 +185,7 @@ def text_csv():
     # Get all the text files in the text directory
     for file in os.listdir("text/"):
         # Open the file and read the text
-        with open("text/"+ file, "r", encoding="latin-1") as f:
+        with open("text/"+ file, "r", encoding="utf8") as f:
             text = f.read()
             # Omit the first 11 lines and the last 4 lines, then replace -, _, and #update with spaces.
             texts.append((file[11:-4].replace('-',' ').replace('_', ' ').replace('#update',''), text))
@@ -282,7 +284,7 @@ def answer_question(
     size="ada",
     debug=False,
     max_tokens=1000,
-    stop_sequence=None
+    stop_sequence="\n"
 ):
     context = create_context(
         question,
@@ -290,6 +292,7 @@ def answer_question(
         max_len=max_len,
         size=size,
     )
+    print("Context: "+context)
     # If debug, print the raw model response
     if debug:
         print("Context:\n" + context)
@@ -298,7 +301,7 @@ def answer_question(
     try:
         # Create a completions using the question and context
         response = openai.ChatCompletion.create(
-            messages=[{"role":"system","content":"Answer the question based on the context below, and if the question can't be answered based on the context give the answer based on your trained data , say \"The answer is not available on the portal but according to GPT-3 the answer is: ,\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:"},{"role":"user","content":"Question:"+question}],
+            messages=[{"role":"assistant","content":"Answer the question in {language} in an illustrative way at least 100 words based on the context below,\"\n\nContext: {context}\n\n---\n\n"},{"role":"user","content":"Question:"+question}],
             temperature=0,
             max_tokens=max_tokens,
             top_p=1,
@@ -328,5 +331,6 @@ def askQuestion(request):
 def scrape(request):
     url = request.GET.get('url','')
     print(url)
-    crawl(url)
+    # crawl(url)
+    text_csv()
     return Response(200)
